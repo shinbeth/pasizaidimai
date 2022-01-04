@@ -82,7 +82,7 @@ function usernameGen($name,$surname){
 
     $x = substr($name,0,3);
     $y = substr($surname,0,3);
-    echo strtolower($x) . strtolower($y);
+    echo strtolower($x) . strtolower($y) . rand(1, 100);
 
     
 }
