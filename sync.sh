@@ -1,3 +1,5 @@
 KOMENTARAS = $(date --rfc-3339=seconds)
 
-git add --all ./* && git commit -m '$KOMENTARAS' && git push;
+/usr/bin/git add --all ./* \
+&& /usr/bin/git commit -m '$KOMENTARAS' \
+&& /usr/bin/git push;
