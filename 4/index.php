@@ -69,3 +69,23 @@ function isEmailValid($email){
 }
 
 isEmailValid('bobas@asd');
+echo '<br>';
+
+//-----------------------------------------------------------------
+
+
+$name = 'Puffy';
+$surname = 'Barbarian';
+
+
+function usernameGen($name,$surname){
+
+    $x = substr($name,0,3);
+    $y = substr($surname,0,3);
+    echo $x . $y;
+
+    
+}
+
+
+usernameGen('lole','punk');
