@@ -89,3 +89,19 @@ function usernameGen($name,$surname){
 
 
 usernameGen('lole','punk');
+
+echo '<br>';
+
+//-------------------------------------------------------------------
+
+// is title padaryti sluga
+
+$title = "Turkijoje infliacija rekordine";
+
+$slug = str_replace(" ", "-", $title);
+
+echo $slug;
+echo '<br>';
+
+
+
