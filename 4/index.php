@@ -12,7 +12,7 @@
 
 
 
-////////////////////////////////////////////////////
+//// Pagal pirma paskaitos funkciju pavyzdi
 
 
 function getDiscount($Price, $Discount){
@@ -40,7 +40,7 @@ echo '<br>';
 echo getDiscount(1273,33);
 echo '<br>';
 echo '<br>';
-///////////////////////////////////////////////////////////
+///// Pagal antra paskaitos funkciju pavyzdi
 
 $userEmail = 'user@email.lt';
 
@@ -54,7 +54,7 @@ function clearEmail($email){
 echo clearEmail(' bObikAs@lemp.lv ');
 echo '<br>';
 
-/////////////////////////////////////////////////////////////
+//-------------------------------------------------------------------
 
 function isEmailValid($email){
 
