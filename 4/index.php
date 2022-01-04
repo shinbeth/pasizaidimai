@@ -50,6 +50,22 @@ function clearEmail($email){
     return trim($email);
 }
 
+
 echo clearEmail(' bObikAs@lemp.lv ');
+echo '<br>';
 
+/////////////////////////////////////////////////////////////
 
+function isEmailValid($email){
+
+    if(strpos($email, '@')){
+        echo $email;
+        echo '<br>';
+    } else{
+        echo 'lievas';
+        echo '<br>';
+        }
+
+}
+
+isEmailValid('bobas@asd');
