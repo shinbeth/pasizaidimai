@@ -5,5 +5,5 @@
 #KOMENTARAS=$(/usr/bin/date --rfc-3339=seconds)
 
 /usr/bin/git add --all ./* \
-&& /usr/bin/git commit -m 'comm' \
+&& /usr/bin/git commit -m '$(/usr/bin/date --rfc-3339=seconds)' \
 && /usr/bin/git push;

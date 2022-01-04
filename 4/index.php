@@ -1,5 +1,5 @@
 <?php 
-
+include 'myOwnLib.php';
 //echo '4 pamoka';
 
 
@@ -102,6 +102,10 @@ $slug = str_replace(" ", "-", $title);
 
 echo $slug;
 echo '<br>';
+
+// -------------------------------
+
+
 
 
 
