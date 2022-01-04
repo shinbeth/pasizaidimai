@@ -2,12 +2,17 @@
 
 //echo '4 pamoka';
 
-$productPrice = 12;
-$discout = 20;
 
-$finalPrice = $productPrice * ((100 - $discount) / 100);
+////////////////////////////////////////////////////
 
-//echo '<div class="price">'.$finalPrice.'</div>';
+// $productPrice = 12;
+// $discout = 20;
+// 
+// $finalPrice = $productPrice * ((100 - $discount) / 100);
+
+
+
+////////////////////////////////////////////////////
 
 
 function getDiscount($Price, $Discount){
@@ -33,3 +38,18 @@ echo '<br>';
 echo addVat(getDiscount(100,20),$ltVat);
 echo '<br>';
 echo getDiscount(1273,33);
+echo '<br>';
+echo '<br>';
+///////////////////////////////////////////////////////////
+
+$userEmail = 'user@email.lt';
+
+function clearEmail($email){
+    $email = strtolower($email);
+    
+    return trim($email);
+}
+
+echo clearEmail(' bObikAs@lemp.lv ');
+
+
