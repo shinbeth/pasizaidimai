@@ -26,7 +26,7 @@
                 <form action="procedure.php" method="post">
                     <input type="text" name="email" placeholder="vardenis@emailenis.kur">
                     <input type="submit" value="OK" name="submit" />
-                
+                </form>
             </div>
 
 <!---   papildomos varkes --->            
