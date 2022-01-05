@@ -11,6 +11,14 @@
         
         <body>
         
+
+<!--            <div class="content">
+                <form action="procedure.php" method="post">
+                    <input type="text" name="email" placeholder="vardenis@emailenis.kur">
+                    <input type="submit" value="OK" name="submit" />
+                </form>
+            </div> -->       
+        
         
             <div class="header">            
                 <ul>                
@@ -20,18 +28,22 @@
                 </ul>                
             </div>
 
-            
+                <p> sudetis </p>            
             
             <div class="content">
-                <form action="procedure.php" method="post">
-                    <input type="text" name="email" placeholder="vardenis@emailenis.kur">
+                <form action="sudetis.php" method="post">
+                    <input type="text" name="pirmas" placeholder="pirmas">
+                    
+                    <input type="text" name="antras" placeholder="antras">
                     <input type="submit" value="OK" name="submit" />
                 </form>
             </div>
+            
+
 
 <!---   papildomos varkes --->            
 
-            <h1> Pagrindine Antraste </h1>            
+<!--            <h1> Pagrindine Antraste </h1>            
                 <p> pastraipa. tekstas </p>
 
 
@@ -58,7 +70,7 @@
                     <li> pirmas saraso elementas </li>
                     <li> antras saraso elementas </li>
                 </ul>
-                
+                -->
 
                 
                 
