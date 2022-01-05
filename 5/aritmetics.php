@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php 
 
 $pirmas = $_POST[pirmas];
