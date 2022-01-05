@@ -2,7 +2,7 @@
 modifikuotas nemokamu pdf knygu parsisiuntimui is github
 
 
-![alt text](2022-01-05.14-33-14.png "pvz")
+
 
 
 ## Skriptui reikalingi unix-like irankiai
@@ -32,6 +32,7 @@ skripto paleidimas
     ./get_files_from_web.sh
 
 
+![alt text](2022-01-05.14-33-14.png "pvz")
 
 ### Windowsu naudotojams (uzjauciu) reikalingas
 https://www.cygwin.com/
