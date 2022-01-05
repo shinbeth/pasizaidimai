@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 
-KOMENTARAS=$(/usr/bin/date +"'scriptSync%Y%m%d%H%M%S'")
+KOMENTARAS=$(/usr/bin/date +"'script_Sync_%Y%m%d%H%M%S'")
 
 /usr/bin/git add --all ./* \
 && /usr/bin/git commit -m $(echo $KOMENTARAS) \
