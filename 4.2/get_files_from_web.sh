@@ -13,7 +13,7 @@
 #!/bin/bash
 
 URL='https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md' # nuoroda failu traukimui
-FILETYPE='pdf' # failo extensionas pagal kuri filtruos nuorodas
+FILETYPE='.pdf' # failo extensionas pagal kuri filtruos nuorodas
 PLACE='files' # aplanko i kuri bus saugomi failai pavadinimas
 DOWNLOAD_PROTOCOL='http' # https http ftp
 
