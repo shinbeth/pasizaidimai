@@ -20,13 +20,13 @@
             </div> -->       
         
         
-            <div class="header">            
+<!--            <div class="header">            
                 <ul>                
                     <li><a href="#">Home</a></li>
                     <li><a href="#">Info</a></li>
                     <li><a href="#">Lel</a></li>                    
                 </ul>                
-            </div>
+            </div>-->
 
                 <p> sudetis </p>            
             
