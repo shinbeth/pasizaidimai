@@ -2,7 +2,7 @@
 modifikuotas nemokamu pdf knygu parsisiuntimui is github
 
 
-![alt text](2022-01-05 14-33-14.png "pvz")
+![alt text](2022-01-05.14-33-14.png "pvz")
 
 
 ## Skriptui reikalingi unix-like irankiai
