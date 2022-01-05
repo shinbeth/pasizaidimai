@@ -13,14 +13,20 @@
 
 ### ubuntu/debian pasirengimas ir paleidimas
 
+
+toolsu isirasymas
+
     /usr/bin/sudo /usr/bin/apt update && /usr/bin/sudo /usr/bin/apt install lynx wget grep
 
-    
+skripto parsisiuntimas
+
     /usr/bin/wget https://raw.githubusercontent.com/shinbeth/pasizaidimai/master/4.1/get_files_from_web.sh
 
+skripto padarymas executable
     
     /usr/bin/chmod +x get_files_from_web.sh
 
+skripto paleidimas    
     
     ./get_files_from_web.sh
 
