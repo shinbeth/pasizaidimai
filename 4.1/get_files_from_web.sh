@@ -22,7 +22,7 @@ DOWNLOAD_PROTOCOL='https'
 mkdir -p $PLACE
 cd $PLACE
 
-wget $(
+/usr/bin/wget $(
 /usr/bin/lynx  \
     --listonly \
     --nonumbers \
