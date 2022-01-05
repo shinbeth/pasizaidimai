@@ -28,10 +28,10 @@
                 </ul>                
             </div>-->
 
-                <p> sudetis </p>            
+                <p> aritmetika </p>            
             
             <div class="content">
-                <form action="sudetis.php" method="post">
+                <form action="aritmetics.php" method="post">
                     <input type="text" name="pirmas" placeholder="pirmas">
                     
                 <select name="operator">
