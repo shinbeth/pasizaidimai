@@ -12,10 +12,10 @@
 
 #!/bin/bash
 
-URL='https://www.openbsd.org/lyrics.html'
-FILETYPE='ogg'
-PLACE='files'
-DOWNLOAD_PROTOCOL='https'
+URL='https://www.openbsd.org/lyrics.html' # nuoroda failu traukimui
+FILETYPE='ogg' # failo extensionas pagal kuri filtruos nuorodas
+PLACE='files' # aplanko i kuri bus saugomi failai pavadinimas
+DOWNLOAD_PROTOCOL='https' # https http ftp
 
 #shellines narsykles panaudojimas, failu istraukimui is web serviso
 #puslapio
