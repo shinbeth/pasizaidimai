@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="https://www.jonobacon.com/xmlrpc.php" />
+<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+<script>var et_site_url='https://www.jonobacon.com';var et_post_id='49436';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>The Art of Community &#8211; Jono Bacon</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.jonobacon.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<meta content="Divi v.4.9.9" name="generator" /><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.jonobacon.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
+<style id="divi-fonts-css" media="all">@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVc.ttf) format('truetype');
+}
+</style>
+<link rel='stylesheet' id='divi-style-css' href='https://www.jonobacon.com/wp-content/themes/Divi/style.css?ver=4.9.9' type='text/css' media='all' />
+<style id="et-builder-googlefonts-cached-css" media="all">@font-face {
+  font-family: 'Actor';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/actor/v10/wEOzEBbCkc5cO0ejVSw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf) format('truetype');
+}
+</style>
+<script type='text/javascript' src='https://www.jonobacon.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.jonobacon.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.jonobacon.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.jonobacon.com/wp-json/wp/v2/pages/49436" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.jonobacon.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.jonobacon.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.8.2" />
+<link rel="canonical" href="https://www.jonobacon.com/books/artofcommunity/" />
+<link rel='shortlink' href='https://www.jonobacon.com/?p=49436' />
+<link rel="alternate" type="application/json+oembed" href="https://www.jonobacon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jonobacon.com%2Fbooks%2Fartofcommunity%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.jonobacon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.jonobacon.com%2Fbooks%2Fartofcommunity%2F&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="preload" href="https://www.jonobacon.com/wp-content/themes/Divi/core/admin/fonts/modules.ttf" as="font" crossorigin="anonymous"><link rel="icon" href="https://www.jonobacon.com/wp-content/uploads//2021/04/cropped-bacon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.jonobacon.com/wp-content/uploads//2021/04/cropped-bacon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.jonobacon.com/wp-content/uploads//2021/04/cropped-bacon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.jonobacon.com/wp-content/uploads//2021/04/cropped-bacon-270x270.png" />
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://www.jonobacon.com/wp-content/et-cache/global/et-divi-customizer-global-16371674787528.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="page-template-default page page-id-49436 page-child parent-pageid-49426 et-tb-has-template et-tb-has-header et-tb-has-footer et_pb_button_helper_class et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+<div id="page-container">
+<div id="et-boc" class="et-boc">
+<header class="et-l et-l--header">
+<div class="et_builder_inner_content et_pb_gutters3">
+<div class="et_pb_section et_pb_section_0_tb_header et_pb_fullwidth_section et_section_regular">
+<div class="et_pb_module et_pb_fullwidth_menu et_pb_fullwidth_menu_0_tb_header et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_fullwidth_menu--with-logo et_pb_fullwidth_menu--style-left_aligned">
+<div class="et_pb_row clearfix">
+<div class="et_pb_menu__logo-wrap">
+<div class="et_pb_menu__logo">
+<a href="https://www.jonobacon.com"><img loading="lazy" width="189" height="43" src="https://www.jonobacon.com/wp-content/uploads/2017/05/logo2-1.png" alt="" class="wp-image-9008" /></a>
+</div>
+</div>
+<div class="et_pb_menu__wrap">
+<div class="et_pb_menu__menu">
+<nav class="et-menu-nav fullwidth-menu-nav"><ul id="menu-default" class="et-menu fullwidth-menu nav"><li class="et_pb_menu_page_id-7766 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7783"><a href="https://www.jonobacon.com/about/">About</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-7772 menu-item menu-item-type-post_type menu-item-object-page menu-item-7784"><a href="https://www.jonobacon.com/about/bio/">Biographies</a></li>
+<li class="et_pb_menu_page_id-5741 menu-item menu-item-type-post_type menu-item-object-page menu-item-6028"><a href="https://www.jonobacon.com/creative/">Creative</a></li>
+<li class="et_pb_menu_page_id-49536 menu-item menu-item-type-post_type menu-item-object-page menu-item-49560"><a href="https://www.jonobacon.com/gin/">The Gin Map</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-52248 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-52248"><a href="https://training.jonobacon.com/">Training</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-55940 menu-item menu-item-type-custom menu-item-object-custom menu-item-55940"><a href="https://www.jonobacon.com/training/complete-content-course/">The Complete Content Course</a></li>
+<li class="et_pb_menu_page_id-52196 menu-item menu-item-type-post_type menu-item-object-page menu-item-52844"><a href="https://www.jonobacon.com/training/dream-community-job/">Getting Your Dream Community Job</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-9722 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9800"><a href="https://www.jonobacon.com/consulting/">Consulting</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-6966 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7864"><a href="https://www.jonobacon.com/consulting/services/">Services</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-7011 menu-item menu-item-type-post_type menu-item-object-page menu-item-7862"><a href="https://www.jonobacon.com/consulting/services/community/">Community Management</a></li>
+<li class="et_pb_menu_page_id-7488 menu-item menu-item-type-post_type menu-item-object-page menu-item-7859"><a href="https://www.jonobacon.com/consulting/services/developers/">Developer Workflow and Relations</a></li>
+<li class="et_pb_menu_page_id-7494 menu-item menu-item-type-post_type menu-item-object-page menu-item-7858"><a href="https://www.jonobacon.com/consulting/services/innersource/">Innersource and Internal Community Management</a></li>
+<li class="et_pb_menu_page_id-7098 menu-item menu-item-type-post_type menu-item-object-page menu-item-7861"><a href="https://www.jonobacon.com/consulting/services/speaking/">Speaking</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-8541 menu-item menu-item-type-post_type menu-item-object-page menu-item-8547"><a href="https://www.jonobacon.com/consulting/testimonials/">Testimonials</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-51267 menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor menu-item-has-children menu-item-51267"><a href="https://www.jonobacon.com">Writing</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-3359 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3363"><a href="https://www.jonobacon.com/blog/">Blog</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-8296 menu-item menu-item-type-post_type menu-item-object-post menu-item-8307"><a href="https://www.jonobacon.com/2016/08/12/my-blog-is-creative-commons-licensed/">License</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-49426 menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-49522"><a href="https://www.jonobacon.com/books/">Books</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-51418 menu-item menu-item-type-post_type menu-item-object-page menu-item-51534"><a href="https://www.jonobacon.com/books/peoplepowered/">People Powered</a></li>
+<li class="et_pb_menu_page_id-49436 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-49436 current_page_item menu-item-49523"><a href="https://www.jonobacon.com/books/artofcommunity/" aria-current="page">The Art of Community</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-51268 menu-item menu-item-type-custom menu-item-object-custom menu-item-51268"><a href="https://forbes.com/sites/jonobacon/">Forbes Column</a></li>
+<li class="et_pb_menu_page_id-51290 menu-item menu-item-type-post_type menu-item-object-page menu-item-51353"><a href="https://www.jonobacon.com/books/peoplepowered/bulk/">‘People Powered’ Directed Learning</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-51279 menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-51279"><a href="https://www.jonobacon.com">Media</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-50337 menu-item menu-item-type-post_type menu-item-object-page menu-item-51280"><a href="https://www.jonobacon.com/conversations/">Conversations With Bacon</a></li>
+<li class="et_pb_menu_page_id-51862 menu-item menu-item-type-post_type menu-item-object-page menu-item-51876"><a href="https://www.jonobacon.com/webinars/">Webinars</a></li>
+<li class="et_pb_menu_page_id-51281 menu-item menu-item-type-custom menu-item-object-custom menu-item-51281"><a href="https://www.youtube.com/jonobacon">Youtube Channel</a></li>
+<li class="et_pb_menu_page_id-51282 menu-item menu-item-type-custom menu-item-object-custom menu-item-51282"><a href="https://www.badvoltage.org">Bad Voltage</a></li>
+</ul>
+</li>
+<li class="menu-join et_pb_menu_page_id-10144 menu-item menu-item-type-post_type menu-item-object-page menu-item-10164"><a href="https://www.jonobacon.com/join/">Join</a></li>
+<li class="et_pb_menu_page_id-50977 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-51389"><a href="https://www.jonobacon.com/resources/">Resources</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-51651 menu-item menu-item-type-post_type menu-item-object-page menu-item-51706"><a href="https://www.jonobacon.com/accessbootcamp/">Community Access Bootcamp</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-6968 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7863"><a href="https://www.jonobacon.com/consulting/contact/">Contact</a>
+<ul class="sub-menu">
+<li class="et_pb_menu_page_id-50454 menu-item menu-item-type-post_type menu-item-object-page menu-item-51262"><a href="https://www.jonobacon.com/media-inquiries/">Media Inquiries</a></li>
+</ul>
+</li>
+</ul></nav>
+</div>
+<div class="et_mobile_nav_menu">
+<div class="mobile_nav closed">
+<span class="mobile_menu_bar"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>  </div>
+</header>
+<div id="et-main-area">
+<div id="main-content">
+<article id="post-49436" class="post-49436 page type-page status-publish hentry">
+<div class="entry-content">
+<div class="et-l et-l--post">
+<div class="et_builder_inner_content et_pb_gutters3">
+<div class="et_pb_section et_pb_section_1 et_section_regular">
+<div class="et_pb_row et_pb_row_0">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1>BUSINESS BOOK AWARDS 2020 <strong>WINNER</strong></h1></div>
+</div> <div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h2 style="text-align: center;"><span style="color: #ffffff;"><a href="https://www.jonobacon.com/books/peoplepowered/"><img loading="lazy" src="https://www.jonobacon.com/wp-content/uploads/2019/03/logo-pp-white-small.png" width="257" height="86" alt="People Powered Logo" class="wp-image-49874 aligncenter size-full" srcset="https://www.jonobacon.com/wp-content/uploads/2019/03/logo-pp-white-small.png 400w, https://www.jonobacon.com/wp-content/uploads/2019/03/logo-pp-white-small-300x101.png 300w" sizes="(max-width: 257px) 100vw, 257px" /></a></span></h2>
+<h2 style="text-align: center;"><span style="color: #ffffff; font-size: x-large;">How communities can supercharge your business, brand, and teams.</span></h2>
+<p style="text-align: center;">Discover and harness the potential of communities for your organization.</p></div>
+</div> 
+</div> 
+</div> <div class="et_pb_row et_pb_row_1">
+<div class="et_pb_column et_pb_column_1_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_0">
+<span class="et_pb_image_wrap "><img loading="lazy" width="400" height="78" src="https://www.jonobacon.com/wp-content/uploads/2020/03/stars-white.png" alt="" title="" srcset="https://www.jonobacon.com/wp-content/uploads/2020/03/stars-white.png 400w, https://www.jonobacon.com/wp-content/uploads/2020/03/stars-white-300x59.png 300w" sizes="(max-width: 400px) 100vw, 400px" class="wp-image-51947" /></span>
+</div><div class="et_pb_module et_pb_image et_pb_image_1">
+<span class="et_pb_image_wrap "><img loading="lazy" width="400" height="121" src="https://www.jonobacon.com/wp-content/uploads/2020/03/amazon-logo-white-png976-496f-a394-b543c6a40bbe.png" alt="" title="" srcset="https://www.jonobacon.com/wp-content/uploads/2020/03/amazon-logo-white-png976-496f-a394-b543c6a40bbe.png 400w, https://www.jonobacon.com/wp-content/uploads/2020/03/amazon-logo-white-png976-496f-a394-b543c6a40bbe-300x91.png 300w" sizes="(max-width: 400px) 100vw, 400px" class="wp-image-51945" /></span>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_image et_pb_image_2">
+<span class="et_pb_image_wrap "><img loading="lazy" width="400" height="78" src="https://www.jonobacon.com/wp-content/uploads/2020/03/stars-white.png" alt="" title="" srcset="https://www.jonobacon.com/wp-content/uploads/2020/03/stars-white.png 400w, https://www.jonobacon.com/wp-content/uploads/2020/03/stars-white-300x59.png 300w" sizes="(max-width: 400px) 100vw, 400px" class="wp-image-51947" /></span>
+</div><div class="et_pb_module et_pb_image et_pb_image_3">
+<span class="et_pb_image_wrap "><img loading="lazy" width="400" height="86" src="https://www.jonobacon.com/wp-content/uploads/2020/03/gr-white.png" alt="" title="" srcset="https://www.jonobacon.com/wp-content/uploads/2020/03/gr-white.png 400w, https://www.jonobacon.com/wp-content/uploads/2020/03/gr-white-300x65.png 300w" sizes="(max-width: 400px) 100vw, 400px" class="wp-image-51949" /></span>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1>BEST SELLER</h1></div>
+</div> <div class="et_pb_module et_pb_image et_pb_image_4">
+<span class="et_pb_image_wrap "><img loading="lazy" width="400" height="121" src="https://www.jonobacon.com/wp-content/uploads/2020/03/amazon-logo-white-png976-496f-a394-b543c6a40bbe.png" alt="" title="" srcset="https://www.jonobacon.com/wp-content/uploads/2020/03/amazon-logo-white-png976-496f-a394-b543c6a40bbe.png 400w, https://www.jonobacon.com/wp-content/uploads/2020/03/amazon-logo-white-png976-496f-a394-b543c6a40bbe-300x91.png 300w" sizes="(max-width: 400px) 100vw, 400px" class="wp-image-51945" /></span>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1>BEST SELLER</h1></div>
+</div> <div class="et_pb_module et_pb_image et_pb_image_5">
+<span class="et_pb_image_wrap "><img loading="lazy" width="400" height="199" src="https://www.jonobacon.com/wp-content/uploads/2020/03/porchlight-logo-wh.png" alt="" title="" srcset="https://www.jonobacon.com/wp-content/uploads/2020/03/porchlight-logo-wh.png 400w, https://www.jonobacon.com/wp-content/uploads/2020/03/porchlight-logo-wh-300x149.png 300w" sizes="(max-width: 400px) 100vw, 400px" class="wp-image-51948" /></span>
+</div>
+</div> 
+</div> <div class="et_pb_row et_pb_row_2">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_light" href="https://www.jonobacon.com/books/peoplepowered/">Find Out More</a>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
+<div class="et_pb_row et_pb_row_3">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1 style="text-align: center;">The Art of Community</h1>
+<p style="text-align: center;">Online communities provide a wide range of opportunities for supporting a cause, marketing a product or service, or building open source software. The Art of Community helps you recruit members, motivate them, and manage them as active participants.</p>
+<p style="text-align: center;">Discover how your community can become a reliable support network, a valuable source of new ideas, and a powerful marketing force. The expanded second edition shows you how to keep community projects on track, make use of social media, and organize collaborative events.</p>
+<p>&nbsp;</p></div>
+</div> <div class="et_pb_module et_pb_image et_pb_image_6">
+<span class="et_pb_image_wrap "><img loading="lazy" width="280" height="72" src="https://www.jonobacon.com/wp-content/uploads/2019/01/oreilly-media-logo.png" alt="" title="" class="wp-image-49460" /></span>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_3 et_section_regular">
+<div class="et_pb_row et_pb_row_4">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1 style="text-align: center;">GET THE BOOK FROM <strong>AMAZON</strong>:</h1></div>
+</div> 
+</div> 
+</div> <div class="et_pb_row et_pb_row_5">
+<div class="et_pb_column et_pb_column_1_5 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="https://www.amazon.com/gp/product/1449312063/ref=as_li_qf_sp_asin_tl?ie=UTF8&#038;tag=jobaho-20&#038;linkCode=as2&#038;camp=1789&#038;creative=9325&#038;creativeASIN=1449312063" target="_blank">Amazon USA</a>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_5 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_2 et_pb_bg_layout_light" href="https://www.amazon.co.uk/gp/product/1449312063/ref=as_li_qf_sp_asin_tl?ie=UTF8&#038;tag=jobaho-20&#038;linkCode=as2&#038;camp=1789&#038;creative=9325&#038;creativeASIN=1449312063" target="_blank">Amazon UK</a>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_5 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_3 et_pb_bg_layout_light" href="https://www.amazon.ca/gp/product/1449312063/ref=as_li_qf_sp_asin_tl?ie=UTF8&#038;tag=jobaho-20&#038;linkCode=as2&#038;camp=1789&#038;creative=9325&#038;creativeASIN=1449312063" target="_blank">Amazon Canada</a>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_5 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_4 et_pb_bg_layout_light" href="https://www.amazon.fr/gp/product/1449312063/ref=as_li_qf_sp_asin_tl?ie=UTF8&#038;tag=jobaho-20&#038;linkCode=as2&#038;camp=1789&#038;creative=9325&#038;creativeASIN=1449312063" target="_blank">Amazon France</a>
+</div>
+</div> <div class="et_pb_column et_pb_column_1_5 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_5 et_pb_bg_layout_light" href="http://www.amazon.jp/gp/product/1449312063/ref=as_li_qf_sp_asin_tl?ie=UTF8&#038;tag=jobaho-20&#038;linkCode=as2&#038;camp=1789&#038;creative=9325&#038;creativeASIN=1449312063" target="_blank">Amazon Japan</a>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_4 et_section_regular">
+<div class="et_pb_row et_pb_row_6">
+<div class="et_pb_column et_pb_column_2_3 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><p style="text-align: center;">The Art of Community is also available freely under a Creative Commons license. Feel free to share it with your friends.</p></div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_center et_pb_module ">
+<a class="et_pb_button et_pb_button_6 et_pb_bg_layout_light" href="https://drive.google.com/file/d/1EI6YcKlTdzojLD4RdVjYVlmFRTNzzge0/view?usp=sharing" target="_blank">Download The Book</a>
+</div>
+</div> 
+</div> <div class="et_pb_row et_pb_row_7">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1 style="text-align: center;">PACKED WITH <strong>VALUABLE CONTENT</strong>:</h1></div>
+</div> 
+</div> 
+</div> <div class="et_pb_row et_pb_row_8">
+<div class="et_pb_column et_pb_column_1_4 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>Build Community Strategy</span></h4>
+<div class="et_pb_blurb_description"><p>Build an effective strategic plan the focusing on growth, collaboration, and meeting stakeholder requirements.</p></div>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>Create Awesome Collaboration</span></h4>
+<div class="et_pb_blurb_description"><p>Coverage of infrastructure, communication, processes and building an effective collaborative on-ramp.</p></div>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>Build Excitement and Participation</span></h4>
+<div class="et_pb_blurb_description"><p>Learn how to get people excited and motivated about your community and goals using a variety of approaches, techniques, and media.</p></div>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_3  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>Use Social Media Effectively</span></h4>
+<div class="et_pb_blurb_description"><p>Use social media to grow awareness and active involvement, while avoiding the pitfalls of this growing trend.</p></div>
+</div>
+</div> 
+</div> 
+</div> 
+</div> <div class="et_pb_row et_pb_row_9">
+<div class="et_pb_column et_pb_column_1_4 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_4  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>Get People Together To Create</span></h4>
+<div class="et_pb_blurb_description"><p>Learn how to organize and run community events, including conferences, summits, and sprints.</p></div>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_5  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>Solidify Capable Governance</span></h4>
+<div class="et_pb_blurb_description"><p>Discover how to plan your governance infrastructure, codify it, and ensure your leaders are motivated and effective.</p></div>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_6  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>Effective Community Management</span></h4>
+<div class="et_pb_blurb_description"><p>Learn how to hire a community manager, plan their work, and ensure they are reliable yet inventive at building stunning community.</p></div>
+</div>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_blurb et_pb_blurb_7  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+<div class="et_pb_blurb_content">
+<div class="et_pb_blurb_container">
+<h4 class="et_pb_module_header"><span>Learn From The Best</span></h4>
+<div class="et_pb_blurb_description"><p>The book also includes interviews with established community leaders across a range of disciplines and industries.</p></div>
+</div>
+</div> 
+</div> 
+</div> 
+</div> <div class="et_pb_row et_pb_row_10">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_24  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1 style="text-align: center;">FEATURING <strong>INTERVIEWS</strong> WITH:</h1></div>
+</div> 
+</div> 
+</div> <div class="et_pb_row et_pb_row_11">
+<div class="et_pb_column et_pb_column_1_4 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_0 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7364074996_324f7ba8f9_o.jpg" alt="Linus Torvalds" class="wp-image-49452" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Linus Torvalds</h4>
+<p class="et_pb_member_position">Creator of Linux</p>
+</div> 
+</div> <div class="et_pb_module et_pb_team_member et_pb_team_member_1 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7178847407_4ff76c424b_o.jpg" alt="James Spafford" class="wp-image-49463" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">James Spafford</h4>
+<p class="et_pb_member_position">Media Molecule</p>
+</div> 
+</div> <div class="et_pb_module et_pb_team_member et_pb_team_member_2 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7364075074_6ac3263fa4_o.jpg" alt="Carolyn Mellor " class="wp-image-49467" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Carolyn Mellor </h4>
+<p class="et_pb_member_position">PayPal</p>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_3 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7452562538_ae84b0b234_o.jpg" alt="Mike Shinoda" class="wp-image-49453" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Mike Shinoda</h4>
+<p class="et_pb_member_position">Founder of Linkin Park</p>
+</div> 
+</div> <div class="et_pb_module et_pb_team_member et_pb_team_member_4 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7364075044_85528bde82_o.jpg" alt="Dries Buytaert" class="wp-image-49464" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Dries Buytaert</h4>
+<p class="et_pb_member_position">Founder, Drupal and Acquia</p>
+</div> 
+</div> <div class="et_pb_module et_pb_team_member et_pb_team_member_5 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7364074982_c0defb5f32_o.jpg" alt="Mark Bussler" class="wp-image-49468" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Mark Bussler</h4>
+<p class="et_pb_member_position">Creator, Classic Game Room</p>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_6 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7178847527_a5a6672e15_o.jpg" alt="Tim O&#039;Reilly" class="wp-image-49454" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Tim O&#039;Reilly</h4>
+<p class="et_pb_member_position">Founder of O&#039;Reilly Media</p>
+</div> 
+</div> <div class="et_pb_module et_pb_team_member et_pb_team_member_7 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7364075188_3c18ec17c4_o.jpg" alt="Mary Colvig" class="wp-image-49465" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Mary Colvig</h4>
+<p class="et_pb_member_position">Mozilla</p>
+</div> 
+</div> <div class="et_pb_module et_pb_team_member et_pb_team_member_8 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7178939271_0f04711717_o.jpg" alt="Ilan Rabinovitch" class="wp-image-49469" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Ilan Rabinovitch</h4>
+<p class="et_pb_member_position">Co-Creator, SoCal Linux Expo</p>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_4 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_team_member et_pb_team_member_9 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7364075254_f262b95a61_o.jpg" alt="Mårten Mickos" class="wp-image-49455" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Mårten Mickos</h4>
+<p class="et_pb_member_position">CEO of MySQL</p>
+</div> 
+</div> <div class="et_pb_module et_pb_team_member et_pb_team_member_10 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7178847167_b0ed664f7a_o.jpg" alt="Richard Esguerra" class="wp-image-49466" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Richard Esguerra</h4>
+<p class="et_pb_member_position">Humble Indie Bundle</p>
+</div> 
+</div> <div class="et_pb_module et_pb_team_member et_pb_team_member_11 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img loading="lazy" width="200" height="300" src="https://www.jonobacon.com/wp-content/uploads/2019/01/7178847441_19245fae66_o.jpg" alt="Mike Linksvayer" class="wp-image-49470" /></div>
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Mike Linksvayer</h4>
+<p class="et_pb_member_position">CTO, Creative Commons</p>
+</div> 
+</div> 
+</div> 
+</div> <div class="et_pb_row et_pb_row_12">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_center et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h1 style="text-align: center;">Become a Member</h1>
+<p style="text-align: center;">Joining as a member is FREE. Get updates directly to your inbox, access to exclusive content, win prizes and free 1-on-1 workshops, and more.</p>
+<p style="text-align: center;"><em>Completely free. No spam. Leave whenever you like.</em></p>
+<p style="text-align: center;"><strong><a href="https://www.jonobacon.com/join/">Learn More</a></strong></p></div>
+</div> <div class="et_pb_module et_pb_code et_pb_code_0">
+<div class="et_pb_code_inner"><center>
+<script async data-uid="5ddcef53ab" src="https://artisanal-painter-9812.ck.page/5ddcef53ab/index.js"></script>
+</center></div>
+</div> 
+</div> 
+</div> 
+</div> <div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular">
+<div class="et_pb_row et_pb_row_13">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_30  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1 style="text-align: center;">PRAISE FOR <strong>THE ART OF COMMUNITY</strong>:</h1></div>
+</div> 
+</div> 
+</div> <div class="et_pb_row et_pb_row_14">
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_31  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_testimonial et_pb_testimonial_0 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_testimonial_no_image">
+<div style="background-image:url(https://www.jonobacon.com/wp-content/uploads/2019/01/Oxvp02hU_400x400.png)" class="et_pb_testimonial_portrait"></div>
+<div class="et_pb_testimonial_description">
+<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p>“The Internet provides the potential to separate us into a cacophony of discordant voices or to congregate us as purpose-driven communities. Jono Bacon, in his insightful The Art of Community, teaches the latter path, detailing the principles of successful community-building in a way that will appeal to both neophyte and expert alike. Given the increasingly critical role of community managers in the technology industry and beyond, The Art of Community should find a place on any businessperson’s bookshelf, not to mention that of the PTA president, book club organizer, or union activist. Yes, it’s that good.”</p></div></div> 
+<span class="et_pb_testimonial_author">Matt Asay</span>
+<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">Alfresco and C|NET</span></p>
+</div> 
+</div> <div class="et_pb_module et_pb_testimonial et_pb_testimonial_1 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_testimonial_no_image">
+<div style="background-image:url(https://www.jonobacon.com/wp-content/uploads/2019/01/ryan.jpg)" class="et_pb_testimonial_portrait"></div>
+<div class="et_pb_testimonial_description">
+<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p>“The success of the open source software movement demonstrates that no obstacle is insurmountable when people come together around a shared vision. In The Art of Community, Ubuntu Community Manager Jono Bacon gives readers a profound glimpse into his hands-on experience as the orchestrator of one of the movement’s most powerful communities. His book offers valuable lessons on effective leadership and community building. Its compelling combination of useful theory, real-world best practices, and instructive personal anecdotes make it a richly comprehensive guide for both aspiring and experienced community leaders.”</p></div></div> 
+<span class="et_pb_testimonial_author">Ryan Paul</span>
+<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">Writer at ArsTechnica</span></p>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3 et_pb_column_32  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_testimonial et_pb_testimonial_2 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_testimonial_no_image">
+<div style="background-image:url(https://www.jonobacon.com/wp-content/uploads/2019/01/images.jpeg)" class="et_pb_testimonial_portrait"></div>
+<div class="et_pb_testimonial_description">
+<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p>“Jono Bacon truly understands communities, and, more importantly, how to build communities that thrive. This is the definitive guidebook to building successful communities—definitive because it is based on Jono’s extensive experience as community manager for Ubuntu, a product that inspires an Apple-esque devotion in very large part because of its vast and dedicated community. For developers and entrepreneurs who want to learn how to tap into the power of community, as Ubuntu has done so masterfully, this book is a must-read.”</p></div></div> 
+<span class="et_pb_testimonial_author">Ian Murdock</span>
+<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">Founder of Debian and VP Emerging Platforms and Sun</span></p>
+</div> 
+</div> <div class="et_pb_module et_pb_testimonial et_pb_testimonial_3 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_testimonial_no_image">
+<div style="background-image:url(https://www.jonobacon.com/wp-content/uploads/2019/01/mark-hinklejpeg.jpg)" class="et_pb_testimonial_portrait"></div>
+<div class="et_pb_testimonial_description">
+<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p>“Communities are very complex ecosystems of human beings. Cultivating, growing, shaping, and guiding the community to make it productive is definitely as much (or even more) art as science. In The Art of Community, Bacon does an excellent job of explaining in detail the considerations for managing and cultivating a healthy open source community. He provides a blueprint for developing and maintaining an open source community in a programmatic way, and his attention to detail and understanding of the dynamics of communities make this book an invaluable resource for anyone looking to build and maintain a community. Drawing from his own extensive experience, Bacon does a great job of explaining how to help foster a community, and provides great advice, ranging from choosing infrastructure, measuring growth, and even hiring a community manager. All in all a must-read for any community manager.”</p></div></div> 
+<span class="et_pb_testimonial_author">Mark Hinkle</span>
+<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">VP Community at Zenoss</span></p>
+</div> 
+</div> 
+</div> <div class="et_pb_column et_pb_column_1_3 et_pb_column_33  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_testimonial et_pb_testimonial_4 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_testimonial_no_image">
+<div style="background-image:url(https://www.jonobacon.com/wp-content/uploads/2019/01/avatar_user__1464797748-360x360.jpg)" class="et_pb_testimonial_portrait"></div>
+<div class="et_pb_testimonial_description">
+<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p>“One thing that’s impressed me about Jono Bacon—something one can notice back when he and others were building a community around their pioneering Linux podcast—is that he simply gets the concept of community. It comes out in most everything he says and most every decision he makes. This is the kind of a person you want writing a book on the topic. Open source community building cannot be boiled down to a formula. It’s a constant effort, a soft science, an art, and Bacon is an ideal art teacher.”</p></div></div> 
+<span class="et_pb_testimonial_author">Dan Goldstein</span>
+<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">Prof. Marketing at London Business School</span></p>
+</div> 
+</div> <div class="et_pb_module et_pb_testimonial et_pb_testimonial_5 clearfix  et_pb_text_align_left et_pb_bg_layout_light et_pb_testimonial_no_image">
+<div style="background-image:url(https://www.jonobacon.com/wp-content/uploads/2019/01/pete.png)" class="et_pb_testimonial_portrait"></div>
+<div class="et_pb_testimonial_description">
+<div class="et_pb_testimonial_description_inner"><div class="et_pb_testimonial_content"><p>“Jono Bacon has long been an insightful voice for the open source community. Now his artful stories distilling the ethos of organizing people and activities on the Net, at conferences, and in our daily routines provide a framework for successful, community-building strategies.”</p></div></div> 
+<span class="et_pb_testimonial_author">Pete Kronowitt</span>
+<p class="et_pb_testimonial_meta"><span class="et_pb_testimonial_position">Linux and Open Source Strategist at Intel</span></p>
+</div> 
+</div> 
+</div> 
+</div> 
+</div>  </div>
+</div>
+</div> 
+</article> 
+</div> 
+<footer class="et-l et-l--footer">
+<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_with_border et_pb_section et_pb_section_0_tb_footer et_section_regular">
+<div class="et_pb_row et_pb_row_0_tb_footer">
+<div class="et_pb_column et_pb_column_3_5 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><p>“<em>If you want to go quickly, go alone. If you want to go far, go together.</em>” &#8212; African Proverb</p></div>
+</div> 
+</div> <div class="et_pb_column et_pb_column_2_5 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_bg_layout_light">
+<li class='et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-twitter et_pb_social_media_follow_network_0_tb_footer'><a href="https://www.twitter.com/jonobacon" class='icon et_pb_with_border' title='Follow on Twitter'><span class='et_pb_social_media_follow_network_name' aria-hidden='true'>Follow</span></a></li><li class='et_pb_social_media_follow_network_1_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-linkedin et_pb_social_media_follow_network_1_tb_footer'><a href='https://www.linkedin.com/in/jonobacon' class='icon et_pb_with_border' title='Follow on LinkedIn'><span class='et_pb_social_media_follow_network_name' aria-hidden='true'>Follow</span></a></li><li class='et_pb_social_media_follow_network_2_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-youtube et_pb_social_media_follow_network_2_tb_footer'><a href="https://www.youtube.com/jonobacon" class='icon et_pb_with_border' title='Follow on Youtube'><span class='et_pb_social_media_follow_network_name' aria-hidden='true'>Follow</span></a></li><li class='et_pb_social_media_follow_network_3_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-facebook et_pb_social_media_follow_network_3_tb_footer'><a href="https://www.facebook.com/jonobacon" class='icon et_pb_with_border' title='Follow on Facebook'><span class='et_pb_social_media_follow_network_name' aria-hidden='true'>Follow</span></a></li><li class='et_pb_social_media_follow_network_4_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-instagram et_pb_social_media_follow_network_4_tb_footer'><a href='https://www.instagram.com/jonobacongram/' class='icon et_pb_with_border' title='Follow on Instagram'><span class='et_pb_social_media_follow_network_name' aria-hidden='true'>Follow</span></a></li>
+</ul> 
+</div> 
+</div> 
+</div>  </div>
+</footer>
+</div> 
+</div>
+</div> 
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.jonobacon.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.jonobacon.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.jonobacon.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"3f2060970f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"98d5608f72","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"49436","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.jonobacon.com/wp-content/themes/Divi/js/custom.unified.js?ver=4.9.9' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://www.jonobacon.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.9.9' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://www.jonobacon.com/wp-includes/js/wp-embed.min.js?ver=5.8.2' id='wp-embed-js'></script>
+<style id="et-builder-module-design-tb-53336-tb-53373-49436-cached-inline-styles">.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu ul li a{color:#ffffff!important}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu{background-color:#000000;padding-top:15px;padding-bottom:15px}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu ul li.current-menu-item a{color:#ffffff!important}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu .nav li ul{background-color:#000000!important}.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu .et_mobile_menu,.et_pb_fullwidth_menu_0_tb_header.et_pb_fullwidth_menu .et_mobile_menu ul{background-color:#000000!important}.et_pb_fullwidth_menu_0_tb_header .et_pb_row>.et_pb_menu__logo-wrap .et_pb_menu__logo,.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__logo-slot{width:auto;max-width:100%}.et_pb_fullwidth_menu_0_tb_header .et_pb_row>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{height:auto;max-height:none}.et_pb_fullwidth_menu_0_tb_header .mobile_nav .mobile_menu_bar:before{color:#7EBEC5}.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button{color:#7EBEC5}.et_pb_fullwidth_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__cart-button{color:#7EBEC5}.et_pb_section_0_tb_footer{border-top-width:1px}.et_pb_section_0_tb_footer.et_pb_section{padding-top:0px;padding-bottom:0px}.et_pb_social_media_follow_network_0_tb_footer a.icon{background-color:#00aced!important}.et_pb_social_media_follow_network_1_tb_footer a.icon{background-color:#007bb6!important}.et_pb_social_media_follow_network_2_tb_footer a.icon{background-color:#a82400!important}.et_pb_social_media_follow_network_3_tb_footer a.icon{background-color:#3b5998!important}.et_pb_social_media_follow_network_4_tb_footer a.icon{background-color:#ea2c59!important}@media only screen and (max-width:980px){.et_pb_section_0_tb_footer{border-top-width:1px}}@media only screen and (max-width:767px){.et_pb_section_0_tb_footer{border-top-width:1px}}div.et_pb_section.et_pb_section_0{background-image:linear-gradient(360deg,#0F2027 0%,#2C5364 100%)!important}div.et_pb_section.et_pb_section_1{background-image:linear-gradient(360deg,#0F2027 0%,#2C5364 100%)!important}.et_pb_section_0.et_pb_section{padding-bottom:0px}.et_pb_section_1.et_pb_section{padding-bottom:0px}.et_pb_text_0 h1{font-family:'Actor',Helvetica,Arial,Lucida,sans-serif;font-size:25px;color:#ffffff!important;letter-spacing:5px;text-align:center}.et_pb_text_0{border-radius:5px 5px 5px 5px;overflow:hidden;border-width:1px;border-color:#ffffff;max-width:64%;box-shadow:0px 2px 18px 0px rgba(0,0,0,0.3)}.et_pb_text_6.et_pb_text{color:#ffffff!important}.et_pb_text_4.et_pb_text{color:#ffffff!important}.et_pb_text_1.et_pb_text{color:#ffffff!important}.et_pb_text_1 h1{font-size:53px;color:#ffffff!important}.et_pb_row_5.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_row_1.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_image_0{padding-top:0px;padding-bottom:0px;text-align:left;margin-left:0}.et_pb_image_2{padding-top:0px;padding-bottom:0px;text-align:left;margin-left:0}.et_pb_image_3 .et_pb_image_wrap img{width:auto}.et_pb_image_6 .et_pb_image_wrap img{width:auto}.et_pb_image_2 .et_pb_image_wrap img{width:auto}.et_pb_image_1 .et_pb_image_wrap img{width:auto}.et_pb_image_0 .et_pb_image_wrap img{width:auto}.et_pb_image_4 .et_pb_image_wrap img{width:auto}.et_pb_image_1{text-align:left;margin-left:0}.et_pb_image_3{text-align:left;margin-left:0}.et_pb_text_3 h1{font-family:'Actor',Helvetica,Arial,Lucida,sans-serif;font-size:21px;color:#ffffff!important;letter-spacing:5px;text-align:center}.et_pb_text_2 h1{font-family:'Actor',Helvetica,Arial,Lucida,sans-serif;font-size:21px;color:#ffffff!important;letter-spacing:5px;text-align:center}.et_pb_text_2{border-radius:5px 5px 5px 5px;overflow:hidden;border-color:#ffffff;margin-top:-1px!important}.et_pb_text_3{border-radius:5px 5px 5px 5px;overflow:hidden;border-color:#ffffff;margin-top:-1px!important}.et_pb_image_4{margin-top:-13px!important;text-align:left;margin-left:0}.et_pb_image_5 .et_pb_image_wrap img{min-height:42px;width:auto}.et_pb_image_5{margin-top:-28px!important;max-width:47%;text-align:left;margin-left:0}body #page-container .et_pb_section .et_pb_button_0{color:#ffffff!important;background-color:#000000}.et_pb_button_5,.et_pb_button_5:after{transition:all 300ms ease 0ms}.et_pb_button_3,.et_pb_button_3:after{transition:all 300ms ease 0ms}.et_pb_button_6,.et_pb_button_6:after{transition:all 300ms ease 0ms}.et_pb_button_0,.et_pb_button_0:after{transition:all 300ms ease 0ms}.et_pb_button_2,.et_pb_button_2:after{transition:all 300ms ease 0ms}.et_pb_button_1,.et_pb_button_1:after{transition:all 300ms ease 0ms}.et_pb_button_4,.et_pb_button_4:after{transition:all 300ms ease 0ms}div.et_pb_section.et_pb_section_2{background-image:url(https://www.jonobacon.com/wp-content/uploads/2019/01/abstract-motion-dark-blue-background-4k_41oqtyt7g__F0000.png),radial-gradient(circle at center,#00a8a8 0%,#2a38d3 100%)!important}.et_pb_text_4{font-size:20px}.et_pb_text_4 h1{font-size:60px;color:#ffffff!important;text-align:center}.et_pb_image_6{max-width:10%;text-align:left;margin-left:0}.et_pb_section_3.et_pb_section{padding-top:10px;padding-bottom:15px}.et_pb_row_4.et_pb_row{padding-top:35px!important;padding-bottom:7px!important;padding-top:35px;padding-bottom:7px}.et_pb_text_5 h1{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}.et_pb_text_10 h1{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}.et_pb_text_8 h1{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}.et_pb_text_7 h1{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}.et_pb_button_1{text-shadow:0em 0.1em 0.1em rgba(0,0,0,0.4)}.et_pb_button_5{text-shadow:0em 0.1em 0.1em rgba(0,0,0,0.4)}.et_pb_button_2{text-shadow:0em 0.1em 0.1em rgba(0,0,0,0.4)}.et_pb_button_3{text-shadow:0em 0.1em 0.1em rgba(0,0,0,0.4)}.et_pb_button_4{text-shadow:0em 0.1em 0.1em rgba(0,0,0,0.4)}body #page-container .et_pb_section .et_pb_button_1{color:#ffffff!important;border-color:#e8e8e8;font-size:16px;background-color:#135cc1}body #page-container .et_pb_section .et_pb_button_5{color:#ffffff!important;border-color:#e8e8e8;font-size:16px;background-color:#135cc1}body #page-container .et_pb_section .et_pb_button_2{color:#ffffff!important;border-color:#e8e8e8;font-size:16px;background-color:#135cc1}body #page-container .et_pb_section .et_pb_button_4{color:#ffffff!important;border-color:#e8e8e8;font-size:16px;background-color:#135cc1}body #page-container .et_pb_section .et_pb_button_3{color:#ffffff!important;border-color:#e8e8e8;font-size:16px;background-color:#135cc1}body #page-container .et_pb_section .et_pb_button_4,body #page-container .et_pb_section .et_pb_button_4:hover{padding:0.3em 1em!important}body #page-container .et_pb_section .et_pb_button_5,body #page-container .et_pb_section .et_pb_button_5:hover{padding:0.3em 1em!important}body #page-container .et_pb_section .et_pb_button_3,body #page-container .et_pb_section .et_pb_button_3:hover{padding:0.3em 1em!important}body #page-container .et_pb_section .et_pb_button_1,body #page-container .et_pb_section .et_pb_button_1:hover{padding:0.3em 1em!important}body #page-container .et_pb_section .et_pb_button_2,body #page-container .et_pb_section .et_pb_button_2:hover{padding:0.3em 1em!important}body #page-container .et_pb_section .et_pb_button_5:before,body #page-container .et_pb_section .et_pb_button_5:after{display:none!important}body #page-container .et_pb_section .et_pb_button_3:before,body #page-container .et_pb_section .et_pb_button_3:after{display:none!important}body #page-container .et_pb_section .et_pb_button_1:before,body #page-container .et_pb_section .et_pb_button_1:after{display:none!important}body #page-container .et_pb_section .et_pb_button_4:before,body #page-container .et_pb_section .et_pb_button_4:after{display:none!important}body #page-container .et_pb_section .et_pb_button_2:before,body #page-container .et_pb_section .et_pb_button_2:after{display:none!important}.et_pb_section_4.et_pb_section{padding-top:0px;padding-bottom:0px;margin-bottom:15px}.et_pb_row_6{background-color:#0c0c0c;border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_row_6.et_pb_row{padding-top:30px!important;padding-top:30px}.et_pb_text_6{padding-right:0px!important;padding-left:20px!important}body #page-container .et_pb_section .et_pb_button_6{color:#ffffff!important}.et_pb_row_7.et_pb_row{padding-top:50px!important;padding-top:50px}.et_pb_blurb_2 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_7 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_6 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_5 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_4 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_3 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_1 .et-pb-icon{color:#7EBEC5}.et_pb_blurb_0 .et-pb-icon{color:#7EBEC5}.et_pb_team_member_10.et_pb_team_member h4,.et_pb_team_member_10.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_10.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_10.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_10.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_10.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_6.et_pb_team_member h4,.et_pb_team_member_6.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_6.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_6.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_6.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_6.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_11.et_pb_team_member h4,.et_pb_team_member_11.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_11.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_11.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_11.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_11.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_7.et_pb_team_member h4,.et_pb_team_member_7.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_7.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_7.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_7.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_7.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_2.et_pb_team_member h4,.et_pb_team_member_2.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_2.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_2.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_2.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_2.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_8.et_pb_team_member h4,.et_pb_team_member_8.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_8.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_8.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_8.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_8.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_5.et_pb_team_member h4,.et_pb_team_member_5.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_5.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_5.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_5.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_5.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_4.et_pb_team_member h4,.et_pb_team_member_4.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_4.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_4.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_4.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_4.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_9.et_pb_team_member h4,.et_pb_team_member_9.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_9.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_9.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_9.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_9.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_3.et_pb_team_member h4,.et_pb_team_member_3.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_3.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_3.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_3.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_3.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_1.et_pb_team_member h4,.et_pb_team_member_1.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_1.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_1.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_1.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_1.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_0.et_pb_team_member h4,.et_pb_team_member_0.et_pb_team_member h1.et_pb_module_header,.et_pb_team_member_0.et_pb_team_member h2.et_pb_module_header,.et_pb_team_member_0.et_pb_team_member h3.et_pb_module_header,.et_pb_team_member_0.et_pb_team_member h5.et_pb_module_header,.et_pb_team_member_0.et_pb_team_member h6.et_pb_module_header{color:#000000!important;text-align:center}.et_pb_team_member_11.et_pb_team_member{text-align:center}.et_pb_team_member_10.et_pb_team_member{text-align:center}.et_pb_team_member_9.et_pb_team_member{text-align:center}.et_pb_team_member_1.et_pb_team_member{text-align:center}.et_pb_team_member_7.et_pb_team_member{text-align:center}.et_pb_team_member_6.et_pb_team_member{text-align:center}.et_pb_team_member_5.et_pb_team_member{text-align:center}.et_pb_team_member_8.et_pb_team_member{text-align:center}.et_pb_team_member_3.et_pb_team_member{text-align:center}.et_pb_team_member_4.et_pb_team_member{text-align:center}.et_pb_team_member_0.et_pb_team_member{text-align:center}.et_pb_team_member_2.et_pb_team_member{text-align:center}.et_pb_team_member_8.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_11.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_1.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_10.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_0.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_4.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_9.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_2.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_7.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_6.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_5.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_team_member_3.et_pb_team_member .et_pb_team_member_image{border-radius:5px 5px 5px 5px;overflow:hidden}.et_pb_text_9 h1{color:#000000!important}.et_pb_text_9.et_pb_text{color:#000000!important}.et_pb_text_9{font-size:19px;border-color:#ffffff;padding-right:0px!important;padding-left:0px!important;margin-right:0px!important;margin-left:32px!important}.et_pb_section_5.et_pb_section{background-color:#e8e8e8!important}.et_pb_testimonial_1.et_pb_testimonial{background-color:#f5f5f5;background-color:#f5f5f5}.et_pb_testimonial_0.et_pb_testimonial{background-color:#f5f5f5;background-color:#f5f5f5}.et_pb_testimonial_2.et_pb_testimonial{background-color:#f5f5f5;background-color:#f5f5f5}.et_pb_testimonial_3.et_pb_testimonial{background-color:#f5f5f5;background-color:#f5f5f5}.et_pb_testimonial_4.et_pb_testimonial{background-color:#f5f5f5;background-color:#f5f5f5}.et_pb_testimonial_5.et_pb_testimonial{background-color:#f5f5f5;background-color:#f5f5f5}.et_pb_image_6.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_text_0.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_image_4.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_image_3.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_image_2.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_image_1.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_image_0.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_image_5.et_pb_module{margin-left:auto!important;margin-right:auto!important}@media only screen and (min-width:981px){.et_pb_image_0{max-width:60%}.et_pb_image_2{max-width:60%}.et_pb_image_1{max-width:76%}.et_pb_image_3{max-width:76%}.et_pb_image_4{max-width:76%}}@media only screen and (max-width:980px){body #page-container .et_pb_section .et_pb_button_0:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_6:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_0:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_6:hover:after{opacity:1}.et_pb_image_6{text-align:center;margin-left:auto;margin-right:auto}}@media only screen and (max-width:767px){.et_pb_text_0 h1{font-size:18px}.et_pb_text_0{padding-right:20px!important;padding-left:20px!important}.et_pb_image_0{max-width:36%}.et_pb_image_2{max-width:36%}.et_pb_image_1{max-width:46%}.et_pb_image_3{max-width:46%}.et_pb_image_4{max-width:46%}body #page-container .et_pb_section .et_pb_button_0:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_6:after{display:inline-block;opacity:0}body #page-container .et_pb_section .et_pb_button_0:hover:after{opacity:1}body #page-container .et_pb_section .et_pb_button_6:hover:after{opacity:1}.et_pb_text_9{margin-right:20px!important;margin-left:20px!important}}</style>
+</body>
+</html>
