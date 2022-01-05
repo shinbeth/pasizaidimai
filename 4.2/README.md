@@ -21,7 +21,7 @@ toolsu isirasymas
 
 skripto parsisiuntimas
 
-    /usr/bin/wget https://raw.githubusercontent.com/shinbeth/pasizaidimai/master/4.1/get_files_from_web.sh
+    /usr/bin/wget https://raw.githubusercontent.com/shinbeth/pasizaidimai/master/4.2/get_files_from_web.sh
 
 skripto padarymas executable
     
