@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php 
 include 'myOwnLib.php';
 //echo '4 pamoka';
