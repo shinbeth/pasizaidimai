@@ -32,7 +32,7 @@ skripto paleidimas
 
 
 
-## Windowsu naudotojams (uzjauciu) reikalingas
+### Windowsu naudotojams (uzjauciu) reikalingas
 https://www.cygwin.com/
 
-## mac, kainuoja pakankamai, kad apple teiktu supporta
+### mac, kainuoja pakankamai, kad apple teiktu supporta
