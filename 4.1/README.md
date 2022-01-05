@@ -16,7 +16,7 @@
 
 toolsu isirasymas
 
-    /usr/bin/sudo /usr/bin/apt update && /usr/bin/sudo /usr/bin/apt install lynx wget grep
+    /usr/bin/sudo /usr/bin/apt update && /usr/bin/sudo /usr/bin/apt install -y lynx wget grep
 
 skripto parsisiuntimas
 
