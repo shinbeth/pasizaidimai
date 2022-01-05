@@ -34,6 +34,14 @@
                 <form action="sudetis.php" method="post">
                     <input type="text" name="pirmas" placeholder="pirmas">
                     
+                <select name="operator">
+                    <option value="-">-</option>
+                    <option value="*">*</option>
+                    <option value="+">+</option>
+                    <option value="/">/</option>
+                </select>
+                    
+                    
                     <input type="text" name="antras" placeholder="antras">
                     <input type="submit" value="OK" name="submit" />
                 </form>
