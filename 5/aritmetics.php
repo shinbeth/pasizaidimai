@@ -1,14 +1,14 @@
 <!DOCTYPE html>
+
+<!--$trecias = $pirmas + $antras;-->
+
+<!--- echo $pirmas.'+'.$antras.'='.$trecias; --->
 <?php 
 
 $pirmas = $_POST[pirmas];
 $antras = $_POST[antras];
 $operator = $_POST[operator];
 
-
-//$trecias = $pirmas + $antras;
-
-//echo $pirmas.'+'.$antras.'='.$trecias;
 
 
 switch ($operator){
@@ -31,6 +31,7 @@ switch ($operator){
         break;
 
         
-
+echo 'debug';
 
 }
+?>
