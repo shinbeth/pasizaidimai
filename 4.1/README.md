@@ -11,7 +11,7 @@
 
 - grep
 
-### ubuntu/debian pasirengimas ir paleidimas
+### ubuntu/debian pasirengimas ir paleidimas per terminala
 
 
 toolsu isirasymas
