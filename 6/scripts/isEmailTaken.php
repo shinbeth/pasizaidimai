@@ -1,5 +1,5 @@
 <?php 
-//TODO: emailo validatorius
+//TODO: firmos pavadinimo dejimas i kabutes
 
 /*
 
