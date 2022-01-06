@@ -8,4 +8,6 @@ Vardu ir pavardziu pirmos raides upper casinimas irasant ir emailo lowercasinima
 
 ## Nepadaryta
 
+Galbut reiketu firmos pavadinima deti i kabutes.
+
 <img src="https://raw.githubusercontent.com/shinbeth/pasizaidimai/master/6/docs/2022-01-06.20-07-32.png" width="1000">
