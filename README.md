@@ -5,8 +5,8 @@ Pamoku direktorijos tik sveiki skaiciai, su kableliu papildoma tarp pamokine vei
 ## Uzrasai
 1. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/1)
 2. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/2)
-    - [2.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.1)
-    - [2.9 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.9)
+    - [2.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.1) - CSV failo skaitymas.
+    - [2.9 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.9) - CSV failo skaitymas
 3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3)
 4. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/4)
     - [4.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/4.1) - Bazinis unix-like scrappinimas, OpenBSD dainu parsiuntimo skriptas.(su instrukcijom) 
