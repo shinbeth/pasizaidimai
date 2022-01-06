@@ -12,3 +12,5 @@ index.php + aritmetics.php
 ![alt text](img/2022-01-06.08-04-40.png "pvz")
 
 ![alt text](img/2022-01-06.08-04-52.png "pvz")
+
+## kiti failai siaip juodrasciai
