@@ -17,7 +17,7 @@ $myfile = fopen("data/newfile.csv", "a") or die("Unable to open file!");
 
 
 
-$txt = $vardas.','.$pavarde.','.$emailas.','.$firma."\n";
+$txt = $vardas.','.$pavarde.','.$emailas.','.$firma.','."\n";
 
 fwrite($myfile, $txt);
 fclose($myfile);
