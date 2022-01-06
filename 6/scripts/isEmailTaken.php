@@ -42,12 +42,13 @@ list($FirstName[],$LastName[],$Email[],$CName[]) = explode(',',$data); // stulpe
    if(!in_array($emailas, $Email))
    {
         $myfile = fopen("../data/failas.csv", "a") or die("Unable to open file!");
-        echo 'Irasas pridetas';
+        
 
         $txt = $vardas.','.$pavarde.','.$emailas.','.$firma.','."\n";
 
         fwrite($myfile, $txt);
         fclose($myfile);
+        die('Irasas pridetas');
 
 }else{
 
