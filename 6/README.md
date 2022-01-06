@@ -1,6 +1,6 @@
 # naujo iraso pridejimas i CSV
 
-## Padaryta
+## Kas padaryta
 
 ### Ivedimas
 <img src="docs/ivedimaas.png" width="400">
