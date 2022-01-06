@@ -8,6 +8,18 @@
 
 Tiesiog bukai pridedama nauja eilute, emaila naudojant kaip identifikatoriu ir pridedant irasa jei toks emailas dar neegzistuoja. Todel komputaciniu poziuriu panaudoti panasus dalykai, su tuo ka nagrinejame paskaitoje.
 
+### Irasas pridetas
+
+<img src="docs/pridetas.png" width="250">
+
+### Negalimas emailas
+
+<img src="docs/negalimas.png" width="250">
+
+### Irasas egzistuoja
+
+<img src="docs/egzistuoja.png" width="250">
+
 ### Rezultato turinio pvz
 
 <img src="docs/turinys.png" width="500">
