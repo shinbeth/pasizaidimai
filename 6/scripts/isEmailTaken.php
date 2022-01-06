@@ -1,10 +1,30 @@
 <?php 
 //TODO: emailo validatorius
 
-$vardas = $_POST['vardas'];
-$pavarde = $_POST['pavarde'];
-$emailas = $_POST['emailas'];
+/*
+
+    ucwords() funkcija paupercasina pirma raide
+    o joje panaudotas strtolower dar pries tai viska 
+    nulowerina kad nebutu daugiau didziuju raidziu nei pirmoji
+
+*/
+
+$vardas = ucwords(strtolower($_POST['vardas'])); 
+$pavarde = ucwords(strtolower($_POST['pavarde']));
+
+// strtolower() nulowercasina emaila
+$emailas = strtolower($_POST['emailas']); 
+
+
 $firma = $_POST['firma'];
+
+
+if (filter_var($emailas, FILTER_VALIDATE_EMAIL)) {
+  //echo("$emailas is a valid email address");
+} else {
+  die("<b>$emailas</b> negalimas emailas!");
+}
+
 
 $lines =file('../data/failas.csv');   // atsidarom faila kurio pavadinimas failas.csv
 
@@ -24,17 +44,12 @@ list($FirstName[],$LastName[],$Email[],$CName[]) = explode(',',$data); // stulpe
         $myfile = fopen("../data/failas.csv", "a") or die("Unable to open file!");
         echo 'Irasas pridetas';
 
-
-        $txt = $vardas.','.$pavarde.','.$emailas.','.$firma."\n";
+        $txt = $vardas.','.$pavarde.','.$emailas.','.$firma.','."\n";
 
         fwrite($myfile, $txt);
         fclose($myfile);
 
-
-
-
-
 }else{
 
-        echo 'irasas jau egzistuoja';
+        die('irasas jau egzistuoja');
 }
