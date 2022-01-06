@@ -1,18 +1,18 @@
 # Pasizaidimai
 
-Pamoku direktorijos tik sveiki skaiciai, su kableliu papildoma tarp pamokine veikla
+Mano metodai 100% pravers tik tiems kas naudoja linux ir tai ubuntu/debian paremtas distribucijas. Uzrasus dokumentuoju del saves.
 
 
 <img src="unix.jpg" width="400">
 
 ## Uzrasai
-1. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/1)
+1. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/1) - bazines php sintakses aptarimas
 ---
-2. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/2)
+2. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/2) - bazinis php kombinavimas su html
     - [2.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.1) - CSV failo skaitymas.
     - [2.9 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.9) - CSV failo skaitymas
 ----
-3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3)
+3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3) - ???
 ----
 4. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/4)
     - [4.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/4.1) - Bazinis unix-like scrappinimas, OpenBSD dainu parsiuntimo skriptas.(su instrukcijom). Skripto parsiusti failai [cia](https://github.com/shinbeth/pasizaidimai/tree/master/4.1/files)
