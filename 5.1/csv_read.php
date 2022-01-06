@@ -1,9 +1,9 @@
 <?php
 
+//csv failo printinimas i HTML <datalist> drop down selektui
 
 
-
-$lines =file('failas.csv');   // atsidarom faila kurio pavadinimas failas.csv
+$lines =file('data/failas.csv');   // atsidarom faila kurio pavadinimas failas.csv
 
 
 foreach($lines as $data)  // failas nuskaitomas po eilute naudojant cikla foreach
