@@ -9,6 +9,8 @@ Pamoku direktorijos tik sveiki skaiciai, su kableliu papildoma tarp pamokine vei
     - [2.9 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/2.9)
 3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3)
 4. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/4)
+    - [4.1 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/4.1)
+    - [4.2 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/4.2)
 5. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/5)
 
 
