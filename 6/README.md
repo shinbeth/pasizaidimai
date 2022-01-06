@@ -1,7 +1,6 @@
 # naujo iraso pridejimas i CSV
 
-naudojant emaila kaip unikalu identifikatoriu. tiesiog bukai
-pridedama nauja eilute, emaila naudojant kaip identifikatoriu ir pridedant irasa jei toks emailas dar neegzistuoja. Todel komputaciniu poziuriu panaudoti panasus dalykai, su tuo ka nagrinejame paskaitoje.
+Tiesiog bukai pridedama nauja eilute, emaila naudojant kaip identifikatoriu ir pridedant irasa jei toks emailas dar neegzistuoja. Todel komputaciniu poziuriu panaudoti panasus dalykai, su tuo ka nagrinejame paskaitoje.
 
 Taciau galimi patobulinimai, kaip vardu ir pavardziu pirmos raides upper casinimas irasant ir emailo lowercasinimas su kokio nors regexpo panaudojimu jo validumui tikrinti.
 
