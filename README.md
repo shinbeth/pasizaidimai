@@ -2,7 +2,8 @@
 
 Pamoku direktorijos tik sveiki skaiciai, su kableliu papildoma tarp pamokine veikla
 
-![](unix.jpg | width=50)
+
+<img src="unix.jpg" width="48">
 
 ## Uzrasai
 1. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/1)
