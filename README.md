@@ -20,5 +20,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ----
 5. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/5) - Forms - Apendinimas i CSV, aritmetika.
     - [5.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/5.1) - PHP skripto panaudojimas, CSV duomenu spausdinimui i stilizuota HTML dokumenta.
+----
+6. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/6) - Pagal paskaita, kuriama registracija filmai.in stilium, as tais paciais principais, dariau tiesiog iraso pridejima i CSV faila.
 
 
