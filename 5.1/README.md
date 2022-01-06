@@ -3,4 +3,4 @@
 
 
 
-<img src="docs/img/2022-01-06.16-52-29.png" width="400">
+<img src="docs/img/2022-01-06.16-52-29.png" width="600">
