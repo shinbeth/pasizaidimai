@@ -9,9 +9,9 @@ Pamoku direktorijos tik sveiki skaiciai, su kableliu papildoma tarp pamokine vei
     - [2.9 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/2.9)
 3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3)
 4. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/4)
-    - [4.1 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/4.1) bazinis unix-like scrappinimas, OpenBSD dainu parsiuntimo skriptas.
-    - [4.2 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/4.2) bazininis unix-like scrappinimas, programavimo knygu parsiuntimas is github
+    - [4.1 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/4.1) - Bazinis unix-like scrappinimas, OpenBSD dainu parsiuntimo skriptas.(su instrukcijom) 
+    - [4.2 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/4.2) - Bazininis unix-like scrappinimas, programavimo knygu parsiuntimas is github. (su instrukcijom)
 5. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/5)
-    - [5.1 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/5.1)
+    - [5.1 Papildoma](https://github.com/shinbeth/pasizaidimai/tree/master/5.1) - PHP skripto panaudojimas, CSV duomenu spausdinimui i stilizuota HTML dokumenta.
 
 
