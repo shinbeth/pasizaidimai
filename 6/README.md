@@ -3,7 +3,7 @@
 ## Padaryta
 
 ### Ivedimas
-<img src="docs/ivedimas.png" width="250">
+<img src="docs/ivedimaas.png" width="250">
 
 
 Tiesiog bukai pridedama nauja eilute, emaila naudojant kaip identifikatoriu ir pridedant irasa jei toks emailas dar neegzistuoja. Todel komputaciniu poziuriu panaudoti panasus dalykai, su tuo ka nagrinejame paskaitoje.
