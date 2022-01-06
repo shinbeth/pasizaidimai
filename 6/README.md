@@ -3,22 +3,22 @@
 ## Padaryta
 
 ### Ivedimas
-<img src="docs/ivedimaas.png" width="250">
+<img src="docs/ivedimaas.png" width="400">
 
 
 Tiesiog bukai pridedama nauja eilute, emaila naudojant kaip identifikatoriu ir pridedant irasa jei toks emailas dar neegzistuoja. Todel komputaciniu poziuriu panaudoti panasus dalykai, su tuo ka nagrinejame paskaitoje.
 
 ### Irasas pridetas
 
-<img src="docs/pridetas.png" width="250">
+<img src="docs/pridetas.png" width="400">
 
 ### Negalimas emailas
 
-<img src="docs/negalimas.png" width="250">
+<img src="docs/negalimas.png" width="400">
 
 ### Irasas egzistuoja
 
-<img src="docs/egzistuoja.png" width="250">
+<img src="docs/egzistuoja.png" width="400">
 
 ### Rezultato turinio pvz
 
