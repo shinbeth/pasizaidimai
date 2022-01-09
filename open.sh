@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-/usr/bin/kate */*.{php,md} */*/*.{php,md} LICENSE */LICENSE */*/LICENSE
+/usr/bin/kate */*.{php,md} */*/*.{php,md} LICENSE README.md */LICENSE */*/LICENSE
