@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-/usr/bin/kate */*.{php,md} */*/*.{php,md} LICENSE README.md */LICENSE */*/LICENSE
+/usr/bin/kate $(find . | grep '.md\|.html\|.php\|LICENSE')
