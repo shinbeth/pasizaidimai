@@ -52,7 +52,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 
 ### 7
 
-7. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/7) - Pagal paskaita ir namu darbus tesiama registracija jau nebe filmai.in stiliumi, bet su hashinamais slaptazodziais.
+7. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/7) - Pagal paskaita ir namu darbus tesiama registracija jau nebe filmai.in stiliumi, bet su hashinamais slaptazodziais. ir tikrinimu ar emailas jau nera naudojamas, principe kaip pats dariau [6 Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/6)
 ----
 
 
