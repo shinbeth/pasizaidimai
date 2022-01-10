@@ -12,7 +12,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
     - [2.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.1) - CSV failo skaitymas.
     - [2.9 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.9) - CSV failo skaitymas
 ----
-3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3) - ???
+3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3) - ??? Na cia 
 ----
 4. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/4)
     - [4.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/4.1) - Bazinis unix-like scrappinimas, OpenBSD dainu parsiuntimo skriptas.(su instrukcijom). Skripto parsiusti failai [cia](https://github.com/shinbeth/pasizaidimai/tree/master/4.1/files)
@@ -25,6 +25,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
     - [6.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/6.1) - Socialines medijos memes ikveptas skriptas, beprasmiu sakiniu generavimui.
     - [6.2 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/6.2) - 6.1 pratesimas, bruteforce algortimas
     - [6.3 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/6.3) - Luhn's Algoritmas
+    - [6.4 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/6.4) - Advent of Code pirma uzduotis, su IRC logo gabalu turinciu naudingu atsakymu apie PHP logika.
 ----
 
 
