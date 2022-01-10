@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-/usr/bin/kate $(find . | grep '.md\|.html\|.php\|LICENSE\|.sh')
+/usr/bin/kate $(find . | grep '.md\|.html\|.php\|LICENSE\|.sh\|.csv')
