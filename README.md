@@ -12,7 +12,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
     - [2.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.1) - CSV failo skaitymas.
     - [2.9 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.9) - CSV failo skaitymas
 ----
-3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3) - ??? Na cia 
+3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3) - ??? Na cia githubo pasijungimo loopas buvo
 ----
 4. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/4)
     - [4.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/4.1) - Bazinis unix-like scrappinimas, OpenBSD dainu parsiuntimo skriptas.(su instrukcijom). Skripto parsiusti failai [cia](https://github.com/shinbeth/pasizaidimai/tree/master/4.1/files)
