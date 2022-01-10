@@ -6,21 +6,39 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 <img src="unix.jpg" width="400">
 
 ## Uzrasai
+
+### 1
+
 1. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/1) - bazines php sintakses aptarimas
 ---
+
+### 2
+
 2. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/2) - bazinis php kombinavimas su html
     - [2.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.1) - CSV failo skaitymas.
     - [2.9 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.9) - CSV failo skaitymas
 ----
+
+### 3
+
 3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3) - ??? Na cia githubo pasijungimo loopas buvo
 ----
+
+### 4
+
 4. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/4)
     - [4.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/4.1) - Bazinis unix-like scrappinimas, OpenBSD dainu parsiuntimo skriptas.(su instrukcijom). Skripto parsiusti failai [cia](https://github.com/shinbeth/pasizaidimai/tree/master/4.1/files)
     - [4.2 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/4.2) - Bazininis unix-like scrappinimas, programavimo knygu parsiuntimas is github. (su instrukcijom). Skripto parsiusti failai [cia](https://github.com/shinbeth/pasizaidimai/tree/master/4.2/files)
 ----
+
+### 5
+
 5. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/5) - Forms - Apendinimas i CSV, aritmetika.
     - [5.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/5.1) - PHP skripto panaudojimas, CSV duomenu spausdinimui i stilizuota HTML dokumenta.
 ----
+
+### 6
+
 6. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/6) - Pagal paskaita, kuriama registracija filmai.in stilium, as tais paciais principais, dariau tiesiog iraso pridejima i CSV faila.
     - [6.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/6.1) - Socialines medijos memes ikveptas skriptas, beprasmiu sakiniu generavimui.
     - [6.2 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/6.2) - 6.1 pratesimas, bruteforce algortimas
