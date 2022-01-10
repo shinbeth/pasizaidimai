@@ -11,6 +11,8 @@ $y=0;
 
 foreach($data as $lines){   list($direction[],$amount[]) = explode(' ',$lines);   } 
 
+$amounts = array_map(fn (string $x): int => (int)$x, $amounts);
+
 for($i=0;$i<$data_length;$i++){
 
 
