@@ -53,7 +53,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ### 7
 
 7. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/7) - Pagal paskaita ir namu darbus tesiama registracija jau nebe filmai.in stiliumi, bet su hashinamais slaptazodziais. ir tikrinimu ar emailas jau nera naudojamas, principe kaip pats dariau [6 Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/6)
-    - [7.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/7.1) - Advent of Code antra uzduotis, atsakyma mano atveju dave, bet su daug erroru.
+    - [7.1 Saviveikla Pamokos Metu](https://github.com/shinbeth/pasizaidimai/tree/master/7.1) - Advent of Code antra uzduotis, atsakyma mano atveju dave, bet su daug erroru.
 ----
 
 
