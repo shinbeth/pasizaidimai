@@ -1,5 +1,7 @@
 # Pasizaidimai
 
+[Kaip tapti Hakeriu](https://rtfb.lt/hacker-howto-lt.html)
+
 Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja linux ir tai ubuntu/debian paremtas distribucijas. Kitiems sie uzrasai bus maziau naudingi, ypac windows naudotojams.
 
 
