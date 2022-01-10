@@ -9,7 +9,7 @@ $data_length = count($data);
 $x=0;
 $y=0;
 
-print_r($data);
+//print_r($data);
 
 foreach($data as $lines){   list($direction[],$amount[]) = explode(' ',$lines);   } 
 

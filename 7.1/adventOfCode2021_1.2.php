@@ -4,7 +4,7 @@
 
 $data = file('../6.4/data/input.log');
 
-$data_length = count($data)-2;
+$data_length = count($data)-4;
 
 $increaseC=0; 
 
