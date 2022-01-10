@@ -9,28 +9,28 @@ $data_length = count($data);
 $x=0;
 $y=0;
 
-//print_r($data);
-
 foreach($data as $lines){   list($direction[],$amount[]) = explode(' ',$lines);   } 
 
 for($i=0;$i<$data_length;$i++){
 
+
+
 switch($direction[$i]){
     case 'forward':
-        $x+=$amount[$i];
+        $x+=(int)$amount[$i];
         break;
     case 'up':
-        $y-=$amount[$i];
+        $y-=(int)$amount[$i];
         break;
     case 'down':
-        $y+=$amount[$i];
+        $y+=(int)$amount[$i];
         break;
 }
 
 }
-/*
+
 echo 'x: '.$x.' y: '.$y."\n";
-echo 'Answer: '.$x*$y."\n";*/
+echo 'Answer: '.$x*$y."\n";
 
 
 
