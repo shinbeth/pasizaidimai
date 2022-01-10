@@ -28,9 +28,9 @@ switch($direction[$i]){
 }
 
 }
-
+/*
 echo 'x: '.$x.' y: '.$y."\n";
-echo 'Answer: '.$x*$y."\n";
+echo 'Answer: '.$x*$y."\n";*/
 
 
 
