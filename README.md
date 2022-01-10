@@ -54,7 +54,10 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 
 7. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/7) - Pagal paskaita ir namu darbus tesiama registracija jau nebe filmai.in stiliumi, bet su hashinamais slaptazodziais. ir tikrinimu ar emailas jau nera naudojamas, principe kaip pats dariau [6 Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/6) Antroje paskaitos dalyje vyksta kazkas su prekiu pridejimais i krepseli naudojant pateikta csv faila su produktu duomenimis.
     - [7.1 Saviveikla Pamokos Metu](https://github.com/shinbeth/pasizaidimai/tree/master/7.1) - Advent of Code pirmos uzduoties antra dalis, atsakyma mano atveju dave, bet su daug erroru.
+        - [7.1.1 Saviveikla Pamokos Metu](https://github.com/shinbeth/pasizaidimai/commit/edd9ff9c75e3ce8382f0ab15a0a204534c1b2bca) Erroru fixo diffas.
     - [7.2 Saviveikla Pamokos Metu](https://github.com/shinbeth/pasizaidimai/tree/master/7.2) - Advent of Code antros uzduoties pirma dalis, atsakyma mano atveju dave, bet su daug erroru.
+        - [7.2.1 Saviveikla Pamokos Metu](https://github.com/shinbeth/pasizaidimai/commit/403046c895d638f8d6e7f734292902c4fa02c068) Erroru fixo diffas.
+
 ----
 
 
