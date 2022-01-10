@@ -1,4 +1,7 @@
 <?php
+
+// second part of https://adventofcode.com/2021/day/1
+
 $data = file('../6.4/data/input.log');
 
 $data_length = count($data)-2;
