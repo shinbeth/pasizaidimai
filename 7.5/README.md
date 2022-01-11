@@ -1,4 +1,4 @@
-# Lietuvos Banko, vaiuto kursu pagal eura lentele
+# Lietuvos Banko, valiutu kursu pagal eura lentele
 
 ## Padaryta
 Pokycio stulpelis neapdirbtas ir rodo grynaji ne procentini pokyti.
