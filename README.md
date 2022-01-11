@@ -1,4 +1,4 @@
-# Pasizaidimai
+# Pamokos
 
 [Kaip tapti Hakeriu](https://rtfb.lt/hacker-howto-lt.html)
 
