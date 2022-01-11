@@ -4,7 +4,7 @@
 
 [How to ask questions Smart way](http://catb.org/%7Eesr/faqs/smart-questions.html)
 
-Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja linux ir tai ubuntu/debian paremtas distribucijas. Kitiems sie uzrasai bus maziau naudingi, ypac windows naudotojams.
+Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja linux ir tai ubuntu/debian paremtas distribucijas. Kitiems sie uzrasai bus maziau naudingi, ypac windows naudotojams. Taciau paties PHP kodo fragmentai pritaikomi betkokioje operacineje sistemoje.
 
 ## Uzrasai
 
