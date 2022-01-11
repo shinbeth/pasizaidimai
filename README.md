@@ -12,6 +12,8 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 
 <details>
   <summary>Daugiau</summary>
+  
+#### 1 Pamokos Uzrasai
 
 1. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/1) - bazines php sintakses aptarimas
     
