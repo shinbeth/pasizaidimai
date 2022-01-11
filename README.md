@@ -6,9 +6,6 @@
 
 Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja linux ir tai ubuntu/debian paremtas distribucijas. Kitiems sie uzrasai bus maziau naudingi, ypac windows naudotojams.
 
-
-<img src="unix.jpg" width="400">
-
 ## Uzrasai
 
 ### 1 Pamoka
@@ -104,3 +101,5 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
     
 ----
 
+
+<img src="unix.jpg" width="400">
