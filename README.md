@@ -14,7 +14,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ### 1 Pamoka
 
 <details>
-  <summary>Isskleisti</summary>
+  <summary>Daugiau</summary>
 
 1. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/1) - bazines php sintakses aptarimas
     
@@ -25,7 +25,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ### 2 Pamoka
 
 <details>
-  <summary>Isskleisti</summary>
+  <summary>Daugiau</summary>
 
 2. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/2) - bazinis php kombinavimas su html
     - [2.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/2.1) - CSV failo skaitymas.
@@ -38,7 +38,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ### 3 Pamoka
 
 <details>
-  <summary>Isskleisti</summary>
+  <summary>Daugiau</summary>
 
 3. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/3) - ??? Na cia githubo pasijungimo loopas buvo
     
@@ -49,7 +49,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ### 4 Pamoka
 
 <details>
-  <summary>Isskleisti</summary>
+  <summary>Daugiau</summary>
 
 4. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/4)
     - [4.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/4.1) - Bazinis unix-like scrappinimas, OpenBSD dainu parsiuntimo skriptas.(su instrukcijom). Skripto parsiusti failai [cia](https://github.com/shinbeth/pasizaidimai/tree/master/4.1/files)
@@ -62,7 +62,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ### 5 Pamoka
 
 <details>
-  <summary>Isskleisti</summary>
+  <summary>Daugiau</summary>
 
 5. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/5) - Forms - Apendinimas i CSV, aritmetika.
     - [5.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/5.1) - PHP skripto panaudojimas, CSV duomenu spausdinimui i stilizuota HTML dokumenta.
@@ -74,7 +74,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ### 6 Pamoka
 
 <details>
-  <summary>Isskleisti</summary>
+  <summary>Daugiau</summary>
 
 6. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/6) - Pagal paskaita, kuriama registracija filmai.in stilium, as tais paciais principais, dariau tiesiog iraso pridejima i CSV faila.
     - [6.1 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/6.1) - Socialines medijos memes ikveptas skriptas, beprasmiu sakiniu generavimui.
@@ -89,7 +89,7 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 ### 7 Pamoka
 
 <details>
-  <summary>Isskleisti</summary>
+  <summary>Daugiau</summary>
 
 7. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/7) - Pagal paskaita ir namu darbus tesiama registracija jau nebe filmai.in stiliumi, bet su hashinamais slaptazodziais. ir tikrinimu ar emailas jau nera naudojamas, principe kaip pats dariau [6 Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/6) Antroje paskaitos dalyje vyksta kazkas su prekiu pridejimais i krepseli naudojant pateikta csv faila su produktu duomenimis.
     - [7.1 Saviveikla Pamokos Metu](https://github.com/shinbeth/pasizaidimai/tree/master/7.1) - Advent of Code pirmos uzduoties antra dalis, atsakyma mano atveju dave, bet su daug erroru.
