@@ -59,6 +59,6 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
         - [7.2.1 Saviveikla Pamokos Metu](https://github.com/shinbeth/pasizaidimai/commit/403046c895d638f8d6e7f734292902c4fa02c068) Erroru fixo diffas.
     - [7.3 Saviveikla](https://github.com/shinbeth/pasizaidimai/raw/master/4.2/files/text-algorithms.pdf) - Text Algorithms knygos nagrinejimas.
     - [7.4 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/7.4) - Metaprogramavimo pavyzdys, valiutu kursu traukimui is verslo ziniu, pusiau su shell.
-    - [7.5 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/7.5) - Valiutu kursu pagal Lietuvos Banka, siandienos ir vakar dienos pokyciu lenteles pavyzdys.
+    - [7.5 Saviveikla](https://github.com/shinbeth/pasizaidimai/tree/master/7.5#padaryta) - Valiutu kursu pagal Lietuvos Banka, siandienos ir vakar dienos pokyciu lenteles pavyzdys.
 ----
 
