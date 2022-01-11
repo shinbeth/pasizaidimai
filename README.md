@@ -100,6 +100,15 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 </details>    
     
 ----
+### 8 Pamoka
 
+<details>
+  <summary>Daugiau</summary>
+
+8. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/8) - Buvo aptariama Computing Science svarba. Paaiskinami direktoriju pagrindai ir kaip susijusi navigacija per shella su navigacija per failu narsykle ir t.t. Vaizdingai paaiskinama kodel frontenderiai ne zmones ir kad visi jauni daro klaidu naudojant windowsus, bei kad visa heavyliftinga daro backendas. Ir sintakses pakartojimui vaskinimo zaidimelio parasymas.
+    
+</details>    
+    
+----
 
 <img src="unix.jpg" width="400">
