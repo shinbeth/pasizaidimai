@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <?php 
-$operator = $_POST[operator];
+$operator = $_POST['operator'];
 
 $opponent_choices = array('zirkles','popierius','akmuo');
 
@@ -24,7 +24,6 @@ switch ($operator){
         if($opponent_choice === 'popierius'){ echo 'lygiosios'."\n";}
         if($opponent_choice === 'akmuo'){ echo 'laimejai'."\n";}
         if($opponent_choice === 'zirkles'){ echo 'pralaimejai'."\n";}
-
         break;
     case 'akmuo':
         echo 'Tavo pasirinkimas: '.$operator."\n";
@@ -35,4 +34,6 @@ switch ($operator){
         break;
 
 }
+
+include 'index.html';
 ?>
