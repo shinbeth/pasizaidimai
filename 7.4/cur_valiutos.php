@@ -1,3 +1,4 @@
+<?php
 $curRates['USD'] = 0.8835483300;
 $curRates['GBP'] = 1.1990695200;
 $curRates['PLN'] = 0.2205849900;
@@ -86,3 +87,4 @@ $curRates['VND'] = 0.0000387296;
 $curRates['XAF'] = 0.0015012522;
 $curRates['XOF'] = 0.0015059180;
 $curRates['ZAR'] = 0.0564974943;
+?>
