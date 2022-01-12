@@ -119,5 +119,5 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 </details>    
     
 ----
-https://github.com/shinbeth/pasizaidimai/tree/master/7.6#readme
+
 <img src="unix.jpg" width="400">
