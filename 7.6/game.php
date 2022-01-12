@@ -29,8 +29,8 @@ switch ($operator){
         echo 'Tavo pasirinkimas: '.$operator."\n";
         echo 'Oponento pasirinkimas: '.$opponent_choice."\n";
         if($opponent_choice === 'akmuo'){ echo 'lygiosios'."\n";}
-        if($opponent_choice === 'popierius'){ echo 'laimejai'."\n";}
-        if($opponent_choice === 'zirkles'){ echo 'pralaimejai'."\n";}
+        if($opponent_choice === 'zirkles'){ echo 'laimejai'."\n";}
+        if($opponent_choice === 'popierius'){ echo 'pralaimejai'."\n";}
         break;
 
 }
