@@ -24,42 +24,30 @@
             
 <?php
 
-$lines =file('failas.csv');   // atsidarom faila kurio pavadinimas failas.csv
+$laimejmai =0;
+$pralaimejimai =0;
+$lygiosios =0;
+
+$lines =file('history.csv');   // atsidarom faila kurio pavadinimas failas.csv
 
 foreach($lines as $data)  // failas nuskaitomas po eilute naudojant cikla foreach
 {
 
-list($CName[],$FirstName[],$LastName[],$Sex[],$Title[],$StrNo[],$ZIPCity[]) = explode(',',$data); // stulpeliais sukarpo faila per kableli, po eilute
+list($vienas[],$du[],$trys[]) = explode(';',$data); // stulpeliais sukarpo faila per kableli, po eilute
 
 }
-
-$ilgis = count($CName); //masyvo elementu suskaiciavimas
+$rezai = array_count_values($trys);
+print_r($rezai);
+$ilgis = count($vienas); //masyvo elementu suskaiciavimas
 
 echo '<table border=1>';
 
-echo  '<tr>';
-echo  '    <th>ID</th>';
-echo  '    <th>Firma</th>';
-echo  '    <th>Vardas</th>';
-echo  '    <th>Pavarde</th>';
-echo  '    <th>Lytis</th>';
-echo  '    <th>Titulas</th>';
-echo  '    <th>Gatve</th>';
-echo  '    <th>Pasto Kodas</th>';
-echo  '  </tr>';
-
-for($y = 0; $y < $ilgis; $y++)
+for($y = $ilgis; $y > 0; $y--)
 { 
-
 echo  '<tr>';
-echo  '    <th>'.$y.'</th>';
-echo  '    <th>'.$CName[$y].'</th>';
-echo  '    <th>'.$FirstName[$y].'</th>';
-echo  '    <th>'.$LastName[$y].'</th>';
-echo  '    <th>'.$Sex[$y].'</th>';
-echo  '    <th>'.$Title[$y].'</th>';
-echo  '    <th>'.$StrNo[$y].'</th>';
-echo  '    <th>'.$ZIPCity[$y].'</th>';
+echo  '    <th>'.$vienas[$y].'</th>';
+echo  '    <th>'.$du[$y].'</th>';
+echo  '    <th>'.$trys[$y].'</th>';
 echo  '</tr>';
 }
     
