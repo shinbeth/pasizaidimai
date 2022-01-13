@@ -117,6 +117,15 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 9. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/9) - Buvo vystomas vaskinimo geimas, su rezultatu rasymu i csv faila ir atvaizdavimu narsykleje zaidziant, bei kokio tai skaitliuko rezultatams. Pagal programa skaitliukas ir lentele turejo traktuoti 10 paskutiniu rezultatu, bet man tai pasirode beprasmiska. Mano lentele uz tai rezultatus printina atvirkstine patogesne tvarka ir nors kodas slykstu, bet paties skaitliuko ideja geresne nei buvo pavaizduota paskaitoje, bet tik tiek ir geresne, o ir siaip mano kodas visiskai kitaip parasytas. Toliau buvo rasoma kazkas su registracija. Tikejausi kad bus paliestas SQL, butu buve idomiau pradeti rasineti i databazes, tai antraja dali paskaitos tik isklausiau. Naujausia geimo kodo versija yra [cia](https://github.com/shinbeth/pasizaidimai/tree/master/7.6#readme) su paveiksleliais. Pats vystau scrappinimo botus kurie informuoja per telegrama ppusiau shell pusiau php, bet meginsiu perkelt viska i PHP, kadangi jis turi pakankamai funkcionalumo tokiom varkem. Ir turbut anksciau nei pagal programa liesiu SQL dataminingui, kad tureti informacijos dorojimui.
     
 </details>    
+
+### 10 Pamoka
+
+<details>
+  <summary>Daugiau</summary>
+
+10. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/10) - Dar karta aptariama bazine sintakse ir programavimo pagrindai.
+    
+</details>    
     
 ----
 
