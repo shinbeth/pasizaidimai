@@ -103,7 +103,10 @@ MariaDB [(none)]> SHOW GRANTS FOR 'user1'@localhost;
 
 ## Prisijungimas naudojant adminer.php
 
-Suvedam
+1. Suvedam
+
 <img src="docs/before_login.png" width="800">
-Prisijungta
+
+2. Prisijungta
+
 <img src="docs/after_login.png" width="800">
