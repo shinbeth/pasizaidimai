@@ -99,6 +99,11 @@ MariaDB [(none)]> SHOW GRANTS FOR 'user1'@localhost;
 | GRANT ALL PRIVILEGES ON `lesson1`.* TO `user1`@`localhost`                                                   |
 +--------------------------------------------------------------------------------------------------------------+
 2 rows in set (0.000 sec)
-
-
 ```
+
+## Prisijungimas naudojant adminer.php
+
+Suvedam
+<img src="docs/before_login.png" width="800">
+Prisijungta
+<img src="docs/after_login.png" width="800">
