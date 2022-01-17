@@ -126,6 +126,15 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 10. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/10) - Dar karta aptariama bazine sintakse ir programavimo pagrindai.
     
 </details>    
+
+### 11 Pamoka
+
+<details>
+  <summary>Daugiau</summary>
+
+11. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/11#readme) - Pradedamos duomenu bazes. As vietoj paprasto mysql kuris priklauso pagal programa naudoju mariadb, parasiau ir daugmaz kaip ji pasileidau, ir taip pat seniau nenaudotas dalykas adminer.php, visai gera varke kaip portabilus databazes GUI interface.
+    
+</details>    
     
 ----
 
