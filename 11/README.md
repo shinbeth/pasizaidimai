@@ -4,7 +4,6 @@
 
 ```
 sudo apt update && sudo apt upgrade && sudo apt install mariadb-server mariadb-client
-
 ```
 
 ## sudo mysql_secure_installation
@@ -13,7 +12,6 @@ Nedekit jokio root slaptazodzio nes tai bloga praktika, bus naudojamas unix sock
 
 ```
 sudo mysql_secure_installation
-
 ```
 
 ```
