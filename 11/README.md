@@ -1,5 +1,50 @@
 # Ubuntu/Kubuntu MariaDB instaliacija
 
+## MariaDB instaliacija
+
+```
+sudo apt update && sudo apt upgrade && sudo apt install mariadb-server mariadb-client
+
+```
+
+## sudo mysql_secure_installation
+
+Nedekit jokio root slaptazodzio nes tai bloga praktika, bus naudojamas unix socketas root authetikacijai, o siaip bus naudojamas paprastas non-root useris
+
+```
+sudo mysql_secure_installation
+
+```
+
+```
+
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MariaDB
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+
+In order to log into MariaDB to secure it, we'll need the current
+password for the root user.  If you've just installed MariaDB, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+Enter current password for root (enter for none): 
+
+```
+
+```
+
+. . .
+OK, successfully used password, moving on...
+
+Setting the root password ensures that nobody can log into the MariaDB
+root user without the proper authorisation.
+
+Set root password? [Y/n] N
+
+```
+
+
+
+
 ## Duomenu bazes susikurimas
 
 ```
@@ -14,10 +59,6 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 
-MariaDB [(none)]> CREATE DATABASE 'lesson1';
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''lesson1'' at line 1
-MariaDB [(none)]> CREATE DATABASE 'lesson1';
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''lesson1'' at line 1
 MariaDB [(none)]> CREATE DATABASE lesson1;
 Query OK, 1 row affected (0.002 sec)
 
@@ -46,24 +87,12 @@ MariaDB [(none)]> SELECT User FROM mysql.user;
 +----------+
 3 rows in set (0.000 sec)
 
-MariaDB [(none)]> GRANT ALL PRIVILEGES ON 'lesson1'.* TO 'user1'@localhost;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''lesson1'.* TO 'user1'@localhost' at line 1
 MariaDB [(none)]> GRANT ALL PRIVILEGES ON lesson1.* TO 'user1'@localhost;
 Query OK, 0 rows affected (0.002 sec)
 
 MariaDB [(none)]> FLUSH PRIVILEGES;
 Query OK, 0 rows affected (0.001 sec)
 
-MariaDB [(none)]> SHOWS GRANTS FOR 'user1'@localhost;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SHOWS GRANTS FOR 'user1'@localhost' at line 1
-MariaDB [(none)]> SHOWS GRANTS FOR user1@localhost;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SHOWS GRANTS FOR user1@localhost' at line 1
-MariaDB [(none)]> SHOWS GRANTS FOR 'user1'@localhost;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SHOWS GRANTS FOR 'user1'@localhost' at line 1
-MariaDB [(none)]> SHOWS GRANTS FOR 'user1';
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SHOWS GRANTS FOR 'user1'' at line 1
-MariaDB [(none)]> SHOWS GRANTS FOR user1;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SHOWS GRANTS FOR user1' at line 1
 MariaDB [(none)]> SHOW GRANTS FOR 'user1'@localhost;
 +--------------------------------------------------------------------------------------------------------------+
 | Grants for user1@localhost                                                                                   |
