@@ -135,6 +135,15 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 11. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/11#readme) - Pradedamos duomenu bazes. As vietoj paprasto mysql kuris priklauso pagal programa naudoju mariadb, parasiau ir daugmaz kaip ji pasileidau, ir taip pat seniau nenaudotas dalykas adminer.php, visai gera varke kaip portabilus databazes GUI interface.
     
 </details>    
+
+### 12 Pamoka
+
+<details>
+  <summary>Daugiau</summary>
+
+12. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/12#readme) - Duomenu baziu modeliavimas UML stilium, bet kad naudojo js.paint kas spreadsheets. As pats tai ieskojau budu kaip isirasyt kokia lengvasvore linux distro i "HP Compax nx7010", kadangi OpenBSD 7.0 biski failina ant drm stage ir kernelpanickina, kadangi kazkoks keistas APU hibridas, nors laptopas buvo zveris savo laiku, bilekiek portu, gigas ramu. zodziu pavargau ieskot ka isirasyt kadangi dauguma OS siais laikais i CD nebetelpa, o dvd disku pritruko, USB bootas tragiskai letas, tai per 'boot -c' atjunges radeondrm sedziu be X serverio ant OpenBSD/i386 7.0, teorizuodamas ar galeciau nuo sofos ji naudojant rasyt php skriptus ir juos rsyncint i lokalu serveri bei naudojant kokia lynx narsykle is to paties laptopo ir patestuot, sukuriant toki unix-like devops setupa. Aisku visa tai tik man ir idomu. Rytoj berods pradesim SQL liest per koda.
+    
+</details>    
     
 ----
 
