@@ -144,6 +144,15 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 12. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/12#readme) - Duomenu baziu modeliavimas UML stilium, bet kad naudojo js.paint kas spreadsheets. As pats tai ieskojau budu kaip isirasyt kokia lengvasvore linux distro i "HP Compax nx7010", kadangi OpenBSD 7.0 biski failina ant drm stage ir kernelpanickina, kadangi kazkoks keistas APU hibridas, nors laptopas buvo zveris savo laiku, bilekiek portu, gigas ramu. zodziu pavargau ieskot ka isirasyt kadangi dauguma OS siais laikais i CD nebetelpa, o dvd disku pritruko, USB bootas tragiskai letas, tai per 'boot -c' atjunges radeondrm sedziu be X serverio ant OpenBSD/i386 7.0, teorizuodamas ar galeciau nuo sofos ji naudojant rasyt php skriptus ir juos rsyncint i lokalu serveri bei naudojant kokia lynx narsykle is to paties laptopo ir patestuot, sukuriant toki unix-like devops setupa. Aisku visa tai tik man ir idomu. Rytoj berods pradesim SQL liest per koda.
     
 </details>    
+
+### 13 Pamoka
+
+<details>
+  <summary>Daugiau</summary>
+
+13. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/12/il6_php_basics/gumtree) - Buvo daromas reklamu talpinimas per forma i SQL databaze. Paskaita tik isklausiau. Ir si irasa pildau jau pries pat 14 pamokos pradzia. Taciau si principa pritaikysiu darant uzsakymu atlikimo/suvedimo i databaze aplikacijai artejanti savaitgali.
+
+</details>    
     
 ----
 
