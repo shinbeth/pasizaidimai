@@ -156,4 +156,26 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
     
 ----
 
+### 14 Pamoka
+
+<details>
+  <summary>Daugiau</summary>
+
+14. Pamoka - Buvo tesiama ir aiskinamasi tai, kas kaikam nepaaiskejo per 13 paskaita. As paskaita tik isklausiau guledamas ant sofos.
+
+</details>    
+    
+----
+
+### 15 Pamoka
+
+<details>
+  <summary>Daugiau</summary>
+
+15. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/15) - Pradzioje mokoma kodo rasymo etika/tvarka.
+
+</details>    
+    
+----
+
 <img src="unix.jpg" width="400">
