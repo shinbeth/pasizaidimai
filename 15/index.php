@@ -7,6 +7,15 @@
 
 include 'FormHelper.php';
 
+$data = [
+
+    'type' => 'text';
+    'name' => '
+
+
+];
+
+
 $form = new FormHelper();
 
 $form->getForm();

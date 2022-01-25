@@ -25,6 +25,14 @@ class FormHelper
     
     }
     
+    public function input($data);
+    {
+    
+    
+    
+    }
+    
+    
     public function __destruct()
     {
     
