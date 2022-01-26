@@ -109,6 +109,8 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
     
 </details>    
 
+----
+
 ### 9 Pamoka
 
 <details>
@@ -117,6 +119,8 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 9. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/9) - Buvo vystomas vaskinimo geimas, su rezultatu rasymu i csv faila ir atvaizdavimu narsykleje zaidziant, bei kokio tai skaitliuko rezultatams. Pagal programa skaitliukas ir lentele turejo traktuoti 10 paskutiniu rezultatu, bet man tai pasirode beprasmiska. Mano lentele uz tai rezultatus printina atvirkstine patogesne tvarka ir nors kodas slykstu, bet paties skaitliuko ideja geresne nei buvo pavaizduota paskaitoje, bet tik tiek ir geresne, o ir siaip mano kodas visiskai kitaip parasytas. Toliau buvo rasoma kazkas su registracija. Tikejausi kad bus paliestas SQL, butu buve idomiau pradeti rasineti i databazes, tai antraja dali paskaitos tik isklausiau. Naujausia geimo kodo versija yra [cia](https://github.com/shinbeth/pasizaidimai/tree/master/7.6#readme) su paveiksleliais. Pats vystau scrappinimo botus kurie informuoja per telegrama ppusiau shell pusiau php, bet meginsiu perkelt viska i PHP, kadangi jis turi pakankamai funkcionalumo tokiom varkem. Ir turbut anksciau nei pagal programa liesiu SQL dataminingui, kad tureti informacijos dorojimui.
     
 </details>    
+
+----
 
 ### 10 Pamoka
 
@@ -127,6 +131,8 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
     
 </details>    
 
+----
+
 ### 11 Pamoka
 
 <details>
@@ -136,6 +142,8 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
     
 </details>    
 
+----
+
 ### 12 Pamoka
 
 <details>
@@ -144,6 +152,8 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 12. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/12#readme) - Duomenu baziu modeliavimas UML stilium, bet kad naudojo js.paint kas spreadsheets. As pats tai ieskojau budu kaip isirasyt kokia lengvasvore linux distro i "HP Compax nx7010", kadangi OpenBSD 7.0 biski failina ant drm stage ir kernelpanickina, kadangi kazkoks keistas APU hibridas, nors laptopas buvo zveris savo laiku, bilekiek portu, gigas ramu. zodziu pavargau ieskot ka isirasyt kadangi dauguma OS siais laikais i CD nebetelpa, o dvd disku pritruko, USB bootas tragiskai letas, tai per 'boot -c' atjunges radeondrm sedziu be X serverio ant OpenBSD/i386 7.0, teorizuodamas ar galeciau nuo sofos ji naudojant rasyt php skriptus ir juos rsyncint i lokalu serveri bei naudojant kokia lynx narsykle is to paties laptopo ir patestuot, sukuriant toki unix-like devops setupa. Aisku visa tai tik man ir idomu. Rytoj berods pradesim SQL liest per koda.
     
 </details>    
+
+----
 
 ### 13 Pamoka
 
@@ -172,7 +182,29 @@ Uzrasus dokumentuoju del saves. Mano metodai 100% pravers tik tiems kas naudoja 
 <details>
   <summary>Daugiau</summary>
 
-15. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/15) - Pradzioje mokoma kodo rasymo etika/tvarka.
+15. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/15) - Pradzioje mokoma kodo rasymo etika/tvarka. Izanga i OOP.
+
+</details>    
+    
+----
+
+### 16 Pamoka
+
+<details>
+  <summary>Daugiau</summary>
+
+16. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/16) - Tesiamas OOP
+
+</details>    
+    
+----
+
+### 17 Pamoka
+
+<details>
+  <summary>Daugiau</summary>
+
+17. [Pamoka](https://github.com/shinbeth/pasizaidimai/tree/master/17) - Composer ir autoloader panaudojimas.
 
 </details>    
     

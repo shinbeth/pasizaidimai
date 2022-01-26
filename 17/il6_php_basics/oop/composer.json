@@ -1,0 +1,17 @@
+{
+    "name": "kentauras/oop",
+    "type": "project",
+    "license": "BSD 3 clause",
+    "autoload": {
+        "psr-4": {
+            "Kentauras\\Oop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shinbeth",
+            "email": "viktoras@prodenta.lt"
+        }
+    ],
+    "require": {}
+}
